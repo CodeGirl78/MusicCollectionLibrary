@@ -8,15 +8,11 @@ namespace MusicCollectionLibrary.Controllers
 {
     public class AlbumsController : Controller
     {
-        static private List<string> Albums = new List<string>();
+        private static List<string> Albums = new List<string>();
         // GET: /<controller>/
+        [HttpGet]
         public IActionResult Index()
         {
-            List<string> Events = new List<string>();
-            Albums.Add("Jonny Lang");
-            Albums.Add("Jim Brickman");
-            Albums.Add("Dolly Parton");
-
             ViewBag.albums = Albums;
 
             return View();
