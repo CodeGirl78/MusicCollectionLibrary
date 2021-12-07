@@ -1,5 +1,9 @@
 ﻿<h1>Welcome to Your Music Collection Library!</h1>
 
+<p>
+    <a asp-controller="Albums" asp-action="Add">Add Album</a>
+</p>
+
 @if (ViewBag.albums.Count == 0)
 {
     <p>No albums yet!</p>
