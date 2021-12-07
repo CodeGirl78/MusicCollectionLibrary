@@ -8,7 +8,7 @@ namespace MusicCollectionLibrary.Controllers
 {
     public class AlbumsController : Controller
     {
-        private static List<string> Albums = new List<string>();
+        private static Dictionary<string, string> Albums = new Dictionary<string, string>();
         // GET: /<controller>/
         [HttpGet]
         public IActionResult Index()
@@ -26,9 +26,9 @@ namespace MusicCollectionLibrary.Controllers
 
         [HttpPost]
         [Route("/Albums/Add")]
-        public IActionResult NewAlbum(string firstname)
+        public IActionResult NewAlbum(string firstname, string lastname)
         {
-            Albums.Add(firstname);
+            Albums.Add(firstname, lastname);
 
             return Redirect("/Albums");
         }

@@ -9,9 +9,24 @@
     <p>No albums yet!</p>
 }
 
-<ul>
-    @foreach (string album in ViewBag.albums)
-    {
-        <li>@album</li>
-    }
-</ul>
+else
+{
+    <table class="table">
+        <tr>
+            <th>
+                Artist's First Name
+            </th>
+            <th>
+                Artist's Last Name
+            </th>            
+        </tr>
+
+        @foreach (var album in ViewBag.albums)
+        {
+            <tr>
+                <td>@album.Key</td>
+                <td>@album.Value</td>                
+            </tr>
+        }
+    </table>
+}
