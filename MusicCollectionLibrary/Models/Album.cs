@@ -13,5 +13,10 @@ namespace MusicCollectionLibrary.Models
         {
             FirstName = firstname;
         }
+
+        public override string ToString()
+        {
+            return base.ToString();
+        }
     }
 }
