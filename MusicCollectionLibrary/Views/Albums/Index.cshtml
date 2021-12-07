@@ -1,0 +1,13 @@
+﻿<h1>Welcome to Your Music Collection Library!</h1>
+
+@if (ViewBag.albums.Count == 0)
+{
+    <p>No albums yet!</p>
+}
+
+<ul>
+    @foreach (string album in ViewBag.albums)
+    {
+        <li>@album</li>
+    }
+</ul>
