@@ -39,3 +39,4 @@ C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\ob
 C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\MusicCollectionLibrary.genruntimeconfig.cache
 C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\MusicCollectionLibrary.csproj.CopyComplete
 C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Views\Albums\Index.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Views\Albums\Add.cshtml.g.cs
