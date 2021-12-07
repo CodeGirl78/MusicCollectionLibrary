@@ -16,8 +16,15 @@ namespace MusicCollectionLibrary.Controllers
             Albums.Add("Jonny Lang");
             Albums.Add("Jim Brickman");
             Albums.Add("Dolly Parton");
+
             ViewBag.albums = Albums;
 
+            return View();
+        }
+
+        [HttpGet]
+        public IActionResult Add()
+        {
             return View();
         }
     }
