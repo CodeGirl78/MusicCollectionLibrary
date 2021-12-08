@@ -30,6 +30,9 @@ namespace MusicCollectionLibrary.Data
         }
 
         // Remove an album from collection
-
+        public static void Remove(int id)
+        {
+            Albums.Remove(id);
+        }
     }
 }
