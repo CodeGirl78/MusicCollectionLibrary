@@ -27,9 +27,9 @@ namespace MusicCollectionLibrary.Controllers
 
         [HttpPost]
         [Route("/Albums/Add")]
-        public IActionResult NewAlbum(string firstname)
+        public IActionResult NewAlbum(string firstname, string lastname)
         {
-            Albums.Add(new Album (firstname));
+            Albums.Add(new Album(firstname, lastname));
 
             return Redirect("/Albums");
         }
