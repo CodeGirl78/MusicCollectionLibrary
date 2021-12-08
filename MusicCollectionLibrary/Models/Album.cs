@@ -32,5 +32,11 @@ namespace MusicCollectionLibrary.Models
         {
             return base.ToString();
         }
+
+        public override bool Equals(object obj)
+        {
+            return obj is Album album &&
+                   Id == album.Id;
+        }
     }
 }
