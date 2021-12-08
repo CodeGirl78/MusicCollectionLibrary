@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MusicCollectionLibrary.Data;
 using MusicCollectionLibrary.Models;
 using System;
 using System.Collections.Generic;
@@ -9,12 +10,11 @@ namespace MusicCollectionLibrary.Controllers
 {
     public class AlbumsController : Controller
     {
-        static private List<Album> Albums = new List<Album>();
         // GET: /<controller>/
         [HttpGet]
         public IActionResult Index()
         {
-            ViewBag.albums = Albums;
+            ViewBag.albums = AlbumData.GetAll();
 
             return View();
         }
@@ -29,7 +29,7 @@ namespace MusicCollectionLibrary.Controllers
         [Route("/Albums/Add")]
         public IActionResult NewAlbum(string firstname, string lastname, string groupname, string albumtitle, string genre, string format)
         {
-            Albums.Add(new Album(firstname, lastname, groupname, albumtitle, genre, format));
+            AlbumData.Add(new Album(firstname, lastname, groupname, albumtitle, genre, format));
 
             return Redirect("/Albums");
         }
