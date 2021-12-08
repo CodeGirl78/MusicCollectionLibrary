@@ -1,7 +1,6 @@
 # MusicCollectionLibrary
 Liftoff Project
 
-ReadMe:
 **Overview**
 
 My project will be a music collection library that will allow users to create an account, login and out of their account once created and create their very own music library. They will be able to update their library by adding and/or deleting albums which will include artist’s first and last name, album title, and genre of music. They will also be able to utilize search functionality by searching for a particular artist or group, album title, or by genre.
