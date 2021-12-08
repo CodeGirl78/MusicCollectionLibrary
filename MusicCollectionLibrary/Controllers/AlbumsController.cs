@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using MusicCollectionLibrary.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -8,7 +9,7 @@ namespace MusicCollectionLibrary.Controllers
 {
     public class AlbumsController : Controller
     {
-        private static Dictionary<string, string> Albums = new Dictionary<string, string>();
+        static private List<Album> Albums = new List<Album>();
         // GET: /<controller>/
         [HttpGet]
         public IActionResult Index()
