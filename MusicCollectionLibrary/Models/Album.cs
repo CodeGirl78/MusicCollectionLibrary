@@ -38,5 +38,10 @@ namespace MusicCollectionLibrary.Models
             return obj is Album album &&
                    Id == album.Id;
         }
+
+        public override int GetHashCode()
+        {
+            return HashCode.Combine(Id);
+        }
     }
 }
