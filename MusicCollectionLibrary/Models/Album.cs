@@ -8,10 +8,12 @@ namespace MusicCollectionLibrary.Models
     public class Album
     {
         public string FirstName { get; set; }
+        public string LastName { get; set; }
 
-        public Album(string firstname)
+        public Album(string firstname, string lastname)
         {
             FirstName = firstname;
+            LastName = lastname;
         }
 
         public override string ToString()
