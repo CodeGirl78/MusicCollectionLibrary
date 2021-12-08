@@ -19,14 +19,30 @@ else
             <th>
                 Artist's Last Name
             </th>
+            <th>
+                Group Name
+            </th>
+            <th>
+                Album Title
+            </th>
+            <th>
+                Genre Type
+            </th>
+            <th>
+                Album Format
+            </th>
         </tr>
 
         @foreach (var album in ViewBag.albums)
         {
-            <tr>
-                <td>@album.FirstName</td>
-                <td>@album.LastName</td>
-            </tr>
+        <tr>
+            <td>@album.FirstName</td>
+            <td>@album.LastName</td>
+            <td>@album.GroupName</td>
+            <td>@album.AlbumTitle</td>
+            <td>@album.Genre</td>
+            <td>@album.Format</td>
+        </tr>
         }
     </table>
 }
