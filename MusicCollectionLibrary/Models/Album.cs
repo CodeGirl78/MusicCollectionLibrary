@@ -13,7 +13,8 @@ namespace MusicCollectionLibrary.Models
         public string AlbumTitle { get; set; }
         public string Genre { get; set; }
         public string Format { get; set; }
-
+        public int Id { get; }
+        private static int nextId = 1;
 
         public Album(string firstname, string lastname, string groupname, string albumtitle, string genre, string format)
         {
@@ -23,6 +24,8 @@ namespace MusicCollectionLibrary.Models
             AlbumTitle = albumtitle;
             Genre = genre;
             Format = format;
+            Id = nextId;
+            nextId++;
         }
 
         public override string ToString()
