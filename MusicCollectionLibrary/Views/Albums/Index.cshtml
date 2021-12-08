@@ -39,6 +39,7 @@ else
         @foreach (var album in ViewBag.albums)
         {
         <tr>
+            <td>@album.Id</td>
             <td>@album.FirstName</td>
             <td>@album.LastName</td>
             <td>@album.GroupName</td>
