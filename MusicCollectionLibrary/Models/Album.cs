@@ -30,13 +30,13 @@ namespace MusicCollectionLibrary.Models
 
         public override string ToString()
         {
-            return base.ToString();
+            return AlbumTitle;
         }
 
         public override bool Equals(object obj)
         {
-            return obj is Album album &&
-                   Id == album.Id;
+            return obj is Album @album &&
+                   Id == @album.Id;
         }
 
         public override int GetHashCode()
