@@ -33,6 +33,5 @@ namespace MusicCollectionLibrary.Controllers
 
             return Redirect("/Albums");
         }
-
     }
 }
