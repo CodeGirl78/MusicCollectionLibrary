@@ -33,5 +33,11 @@ namespace MusicCollectionLibrary.Controllers
 
             return Redirect("/Albums");
         }
+
+        public IActionResult Delete()
+        {
+            ViewBag.albums = AlbumData.GetAll();
+            return View();
+        }
     }
 }
