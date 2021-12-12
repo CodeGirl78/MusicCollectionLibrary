@@ -39,5 +39,16 @@ namespace MusicCollectionLibrary.Controllers
             ViewBag.albums = AlbumData.GetAll();
             return View();
         }
+
+        [HttpPost]
+        public IActionResult Delete(int[] albumIds)
+        {
+            foreach (int albumId in albumIds)
+            {
+                AlbumData.Remove(albumId);
+            }
+
+            return Redirect("/Albums");
+        }
     }
 }
