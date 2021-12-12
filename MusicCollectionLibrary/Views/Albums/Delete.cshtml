@@ -3,10 +3,9 @@
 <form method="post">
     @foreach (var album in ViewBag.albums)
     {
-        <div class="form-group">
+        <div class="checkbox">
             <label>
-                <span>@album.Name</span>
-                <input type="checkbox" name="albumIds" value="@album.Id" class="form-control">
+                <input type="checkbox" name="albumIds" value="@album.Id" class="checkbox"> <span>@album.AlbumTitle</span>
             </label>
         </div>
     }
