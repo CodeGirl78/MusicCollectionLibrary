@@ -26,8 +26,7 @@ namespace MusicCollectionLibrary.Controllers
         }
 
         [HttpPost]
-        [Route("/Albums/Add")]
-        public IActionResult NewAlbum(Album newAlbum)
+        public IActionResult Add (Album newAlbum)
         {
             AlbumData.Add(newAlbum);
 
