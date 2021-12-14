@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using MusicCollectionLibrary.Data;
 using MusicCollectionLibrary.Models;
+using MusicCollectionLibrary.ViewModels;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -22,7 +23,8 @@ namespace MusicCollectionLibrary.Controllers
         [HttpGet]
         public IActionResult Add()
         {
-            return View();
+            AddAlbumViewModel addAlbumViewModel = new AddAlbumViewModel();
+            return View(addAlbumViewModel);
         }
 
         [HttpPost]
