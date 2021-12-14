@@ -1,4 +1,8 @@
-﻿<div class="text-center">
+﻿@using MusicCollectionLibrary.Models
+
+@model List<Album>
+
+<div class="text-center">
     <h1 class="display-4">Welcome to Your Music Collection Library!</h1>
 </div>
 
@@ -44,15 +48,15 @@ else
 
         @foreach (var album in ViewBag.albums)
         {
-        <tr>
-            <td>@album.Id</td>
-            <td>@album.FirstName</td>
-            <td>@album.LastName</td>
-            <td>@album.GroupName</td>
-            <td>@album.AlbumTitle</td>
-            <td>@album.Genre</td>
-            <td>@album.Format</td>
-        </tr>
+            <tr>
+                <td>@album.Id</td>
+                <td>@album.FirstName</td>
+                <td>@album.LastName</td>
+                <td>@album.GroupName</td>
+                <td>@album.AlbumTitle</td>
+                <td>@album.Genre</td>
+                <td>@album.Format</td>
+            </tr>
         }
     </table>
 }
