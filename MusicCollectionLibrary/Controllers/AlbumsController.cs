@@ -14,9 +14,9 @@ namespace MusicCollectionLibrary.Controllers
         [HttpGet]
         public IActionResult Index()
         {
-            ViewBag.albums = AlbumData.GetAll();
+            List<Album> albums = new List<Album>(AlbumData.GetAll());
 
-            return View();
+            return View(albums);
         }
 
         [HttpGet]
