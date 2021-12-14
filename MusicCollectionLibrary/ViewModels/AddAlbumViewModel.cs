@@ -12,6 +12,6 @@ namespace MusicCollectionLibrary.ViewModels
         public string GroupName { get; set; }
         public string AlbumTitle { get; set; }
         public string Genre { get; set; }
-        public string AlbumFormat { get; set; }
+        public string Format { get; set; }
     }
 }
