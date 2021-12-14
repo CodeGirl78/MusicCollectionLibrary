@@ -28,8 +28,18 @@ namespace MusicCollectionLibrary.Controllers
         }
 
         [HttpPost]
-        public IActionResult Add (Album newAlbum)
+        public IActionResult Add (AddAlbumViewModel addAlbumViewModel)
         {
+            Album newAlbum = new Album
+            {
+                FirstName = addAlbumViewModel.FirstName,
+                LastName = addAlbumViewModel.LastName,
+                GroupName = addAlbumViewModel.GroupName,
+                AlbumTitle = addAlbumViewModel.AlbumTitle,
+                Genre = addAlbumViewModel.Genre,
+                Format = addAlbumViewModel.Format,
+            };
+
             AlbumData.Add(newAlbum);
 
             return Redirect("/Albums");
