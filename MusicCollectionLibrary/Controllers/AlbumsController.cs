@@ -20,7 +20,6 @@ namespace MusicCollectionLibrary.Controllers
             return View(albums);
         }
 
-        [HttpGet]
         public IActionResult Add()
         {
             AddAlbumViewModel addAlbumViewModel = new AddAlbumViewModel();
