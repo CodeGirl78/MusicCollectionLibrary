@@ -5,19 +5,19 @@
 
 <form method="post">
     <div asp-controller="Albums" asp-action="Add" class="form-group">
-        <label asp-for="FirstName"></label>
+        <label asp-for="FirstName">Artist's First Name</label>
         <input asp-for="FirstName"/>
     </div>
     <div class="form-group">
-        <label asp-for="LastName"></label>
+        <label asp-for="LastName">Artist's Last Name</label>
         <input asp-for="LastName"/>
     </div>
     <div class="form-group">
-        <label asp-for="GroupName"></label>
+        <label asp-for="GroupName">Group Name</label>
         <input asp-for="GroupName" />
     </div>
     <div class="form-group">
-        <label asp-for="AlbumTitle"></label>
+        <label asp-for="AlbumTitle">Album Title</label>
         <input asp-for="AlbumTitle" />
     </div>
     <div>
@@ -79,7 +79,7 @@
     </div>
     <br>
     <div>
-        <label asp-for="Format"></label>
+        <label asp-for="Format">Format</label>
         <select asp-for="Format">
             <option value="CD">CD</option>
             <option value="Cassette Tape">Cassette Tape</option>
