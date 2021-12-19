@@ -35,6 +35,7 @@ namespace MusicCollectionLibrary.Models
         public override string ToString()
         {
             return AlbumTitle;
+
         }
 
         public override bool Equals(object obj)
