@@ -29,19 +29,24 @@ namespace MusicCollectionLibrary.Controllers
         [HttpPost]
         public IActionResult Add (AddAlbumViewModel addAlbumViewModel)
         {
-            Album newAlbum = new Album
+            if (ModelState.IsValid)
             {
-                FirstName = addAlbumViewModel.FirstName,
-                LastName = addAlbumViewModel.LastName,
-                GroupName = addAlbumViewModel.GroupName,
-                AlbumTitle = addAlbumViewModel.AlbumTitle,
-                Genre = addAlbumViewModel.Genre,
-                Format = addAlbumViewModel.Format,
-            };
+                Album newAlbum = new Album
+                {
+                    FirstName = addAlbumViewModel.FirstName,
+                    LastName = addAlbumViewModel.LastName,
+                    GroupName = addAlbumViewModel.GroupName,
+                    AlbumTitle = addAlbumViewModel.AlbumTitle,
+                    Genre = addAlbumViewModel.Genre,
+                    Format = addAlbumViewModel.Format,
+                };
 
-            AlbumData.Add(newAlbum);
+                AlbumData.Add(newAlbum);
 
-            return Redirect("/Albums");
+                return Redirect("/Albums");
+            }
+
+            return View(addAlbumViewModel);
         }
 
         public IActionResult Delete()
