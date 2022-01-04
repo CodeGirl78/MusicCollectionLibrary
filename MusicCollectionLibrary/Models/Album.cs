@@ -7,13 +7,13 @@ namespace MusicCollectionLibrary.Models
 {
     public class Album
     {
+        public int Id { get; set; }
         public string FirstName { get; set; }
         public string LastName { get; set; }
         public string GroupName { get; set; }
         public string AlbumTitle { get; set; }
         public string Genre { get; set; }
         public string Format { get; set; }
-        public int Id { get; set; }
 
         public Album()
         {
