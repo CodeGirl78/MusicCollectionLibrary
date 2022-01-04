@@ -1,4 +1,5 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using MusicCollectionLibrary.Data;
 using MusicCollectionLibrary.Models;
 using MusicCollectionLibrary.ViewModels;
@@ -9,6 +10,7 @@ using System.Threading.Tasks;
 
 namespace MusicCollectionLibrary.Controllers
 {
+    [Authorize]
     public class AlbumsController : Controller
     {
         private AlbumDbContext context;
