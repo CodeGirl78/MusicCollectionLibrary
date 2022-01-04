@@ -154,3 +154,12 @@ C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\bi
 C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
 C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
 C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\MusicCollectionLibrary.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Login.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Logout.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\Register.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\RegisterConfirmation.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\Account\_ViewImports.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
