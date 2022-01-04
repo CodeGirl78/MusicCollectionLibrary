@@ -11,11 +11,17 @@ namespace MusicCollectionLibrary.Controllers
 {
     public class AlbumsController : Controller
     {
+        private AlbumDbContext context;
+        public AlbumsController(AlbumDbContext DbContext)
+        {
+            context = DbContext;
+        }
+
         // GET: /<controller>/
         [HttpGet]
         public IActionResult Index()
         {
-            List<Album> albums = new List<Album>(AlbumData.GetAll());
+            List<Album> albums = context.Albums.ToList();
 
             return View(albums);
         }
@@ -41,7 +47,8 @@ namespace MusicCollectionLibrary.Controllers
                     Format = addAlbumViewModel.Format,
                 };
 
-                AlbumData.Add(newAlbum);
+                context.Albums.Add(newAlbum);
+                context.SaveChanges();
 
                 return Redirect("/Albums");
             }
@@ -51,7 +58,7 @@ namespace MusicCollectionLibrary.Controllers
 
         public IActionResult Delete()
         {
-            ViewBag.albums = AlbumData.GetAll();
+            ViewBag.albums = context.Albums.ToList();
             return View();
         }
 
@@ -60,8 +67,12 @@ namespace MusicCollectionLibrary.Controllers
         {
             foreach (int albumId in albumIds)
             {
-                AlbumData.Remove(albumId);
+                Album theAlbum = context.Albums.Find(albumId);
+                context.Albums.Remove(theAlbum);
+
             }
+
+            context.SaveChanges();
 
             return Redirect("/Albums");
         }
