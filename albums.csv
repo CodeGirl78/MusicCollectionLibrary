@@ -1,872 +1,872 @@
-album_title,artist_id,genre_id,format_id
-The Very Best of Aretha Franklin,1,45,2
-I'm Alright,2,12,2
-Lace,3,12,2
-It Matters To Me,4,12,2
-Take Me As I Am,4,12,2
-Diana Ross & The Supremes Every Great #1 Hit,5,45,2
-Fly,6,12,2
-Evolution,7,12,2
-Greatest Hits,7,12,2
-Heart Shaped World,8,12,2
-Lie To Me,9,4,2
-Keb' Mo',10,4,2
-Behind The Mask,11,48,2
-Greatest Hits,11,48,2
-Kenny Rogers Christmas,12,10,2
-Disney's Christmas Collection II,null,10,2
-A Very Special Christmas,null,10,2
-Boyz II Men Christmas Interpretations,13,10,2
-Jose Feliciano Feliz Navidad,14,10,2
-Citgo Country Christmas 1995,null,10,2
-Country Christmas,null,10,2
-A Very Special Christmas 2,null,10,2
-Dollywood Smoky Mountain Memories Christmas Favorites,null,10,2
-Christmas With Kenny Rogers,12,10,2
-Christmas Memories From Elvis & Alabama,49,10,2
-Christmas Memories From Elvis & Alabama,29,10,2
-High Mileage,15,12,2
-Bryan White,16,12,2
-True Blue,17,41,2
-The Immaculate Collection,17,41,2
-Greatest Hits Volume I,18,41,2
-The Kids From Fame Live!,19,48,2
-Golden Hits of the Everly Brothers,20,41,2
-Everywhere,21,12,2
-What If It's You,22,12,2
-Read My Mind,22,12,2
-Greatest Hits Volume Two,22,12,2
-I'm Not So Tough,23,12,2
-Music From The Motion Picture Now and Then,null,11,2
-Celebrity,24,41,2
-Greatest Hits,25,12,2
-Not A Moment Too Soon,21,12,2
-Bat Out Of Hell,26,48,2
-Mozart Famous Overtures,27,8,2
-The Essentials The Monkees,28,48,2
-Girl Happy,29,11,2
-"Na Leo Pilimehana I Miss You, My Hawai'i",30,26,2
-Getting' Out The Good Stuff,31,12,2
-Patsy Cline at her Best,32,12,2
-Little Texas,33,12,2
-I Hope You Dance,34,12,2
-Tammy Wynette 20 Greatest Hits,35,12,2
-Lila,36,12,2
-Super Hits,37,12,2
-Something In The Air,36,12,2
-The Judds greatest hits volume two,38,12,2
-Betty Everett greatest hits,39,45,2
-Songs You Know By Heart-Jimmy Buffet's Greatest Hit(s),40,32,2
-Waking Up The Neighbors,41,48,2
-Jo Dee Messina,2,12,2
-The Hits,42,12,2
-Calm Before The Storm,43,12,2
-Greatest Hits Volume III,18,41,2
-II,13,45,2
-Byrds' Greatest Hits,44,48,2
-The Golden Rock Hits of Jerry Lee Lewis,45,48,2
-Best Shots,46,48,2
-Greatest Hits,47,12,2
-Grease Original Motion Picture Soundtrack,null,36,2
-Grease 2 Original Soundtrack Recording,null,36,2
-Their Greatest Hits,48,48,2
-Alabama-The Closer You Get…,49,12,2
-Country Music Hall of Fame Series,50,12,2
-What A Feelin',51,41,2
-Alabama-Christmas,49,10,2
-#1's,52,11,2
-Daydream,52,11,2
-MTV Unplugged EP,52,11,2
-Hell Freezes Over,53,48,2
-Unchained Melody/The Early Years,54,12,2
-A Thousand Memories,55,12,2
-You Light Up My Life,54,12,2
-"Boys, Boys, Boys",56,41,2
-Nothing But Love,57,12,2
-If I Could Make A Living,58,12,2
-Clay Walker,58,12,2
-The Woman In Me,59,12,2
-Kenny Rogers and Dolly Parton-Once Upon A Christmas,12,10,2
-Kenny Rogers and Dolly Parton-Once Upon A Christmas,25,10,2
-We Are The World,60,41,2
-Greatest Hits Volume 2,53,48,2
-Whitney Houston and Cece Winans Count on Me,61,11,2
-Whitney Houston and Cece Winans Count on Me,62,11,2
-Do Anything,63,16,2
-Wide Open Spaces,6,12,2
-Sonya Isaacs,64,12,2
-His Greatest Sides Vol. 1,65,4,2
-Heaven On Earth,66,48,2
-Stones In The Road,67,12,2
-Greatest Hits,68,41,2
-My Boyfriend's Back,69,41,2
-Super Hits,70,48,2
-Skynard's Innyrds/Their Greatest Hits,71,11,2
-Blue,54,12,2
-24 Greatest Hits,72,12,2
-20 Love Songs,29,11,2
-Lee Ann Womack,34,12,2
-Why Does It Hurt So Bad,61,11,2
-"Exhale (Shoop, Shoop)",61,11,2
-I Will Always Love You,61,11,2
-This Christmas Time,73,10,2
-"Nat ""King"" Cole/Ella Fitzgerald The Magic Of Christmas",74,10,2
-"Nat ""King"" Cole/Ella Fitzgerald The Magic Of Christmas",75,10,2
-Bump Ahead,76,48,2
-Mandy Moore,77,41,2
-The Essentials,78,48,2
-Tiffany,79,41,2
-Spellbound,80,41,2
-Home Again,81,45,2
-"The Unplugged Collection, Volume One",null,48,2
-Salem Spirit-Concert Series '84,null,41,2
-Ooh Child,82,41,2
-Rufus Thomas,83,4,2
-Shania Twain,59,12,2
-So Real,77,41,2
-Greatest Hits,84,20,2
-Blacks' Magic,85,11,2
-I'd Be With You,86,12,2
-Wishes,87,12,2
-On A Mission,88,12,2
-Born In The U.S.A.,89,48,2
-Greatest Hits,90,48,2
-Diana Ross & The Supremes A Bit of Liverpool,5,45,2
-Gospel's Top 20 The All-Time Favorites,null,23,2
-The Essentials,91,45,2
-"The Lady, The Legend",50,12,2
-Do I Have To Say The Words?,41,48,2
-Jessi,92,41,2
-Romantic Piano,93,8,2
-What Might Have Been,33,12,2
-In The Beginning…Vol. I,94,48,2
-Tigerlily,95,3,2
-Under The Bridge,96,22,2
-When Boy Meets Girl,97,12,2
-The Essence of Billie Holiday,98,33,2
-Chipmunks in Low Places,null,11,2
-Stone Country Country Artists Perform The Songs Of The Rolling Stones,null,11,2
-Without Walls,35,12,2
-Back To You,99,12,2
-Total Eclipse Of The Heart,100,17,2
-Love Shack,101,39,2
-"""If I Had No Loot""",102,45,2
-Walkin' After Midnight,32,12,2
-28 Big Ones,103,11,2
-Wilson Phillips,104,41,2
-Victory,105,41,2
-It's So Hard To Say  Goodbye To Yesterday,13,45,2
-Pocahontas An Original Walt Disney Records Soundtrack,null,11,2
-Kylie,106,41,2
-Bon Jovi,107,48,2
-We Can't Dance,108,48,2
-Inducted Into The Hall Of Fame 1996,109,12,2
-Back Of My Mind,110,50,2
-#1's,111,12,2
-Greatest Hits,112,12,2
-Heaven/Havin' A Party,113,45,2
-Mouth,114,41,2
-Island Fever,115,11,2
-Give Me One Reason,116,11,2
-Sweat (A La La La La Long),117,46,2
-If You Go,118,34,2
-Please Hammer Don't Hurt 'Em,119,11,2
-History/America's Greatest Hits,120,50,2
-Greatest Hits,121,48,2
-Music Of My Heart,24,41,2
-Music Of My Heart,122,41,2
-Serious Hits…Live!,123,41,2
-Rites Of Passage,124,21,2
-Ledbetter Heights,125,11,2
-Mended,126,34,2
-Cover Girl,127,48,2
-Patty Smith,128,48,2
-Have I Told You Lately,129,48,2
-Stay (I Missed You),130,11,2
-Footloose (Original Motion Picture Soundtrack),null,11,2
-"""Dancing On The Ceiling""",131,45,2
-All-4-One,132,45,2
-When You Need My Love,133,12,2
-Tuesday Night Music Club,134,48,2
-Nobody Knows,135,11,2
-"""Tic-Tac-Toe""",136,11,2
-Looking For The Light,137,12,2
-Slippery When Wet,107,48,2
-Firehouse,138,25,2
-"Politics, Religion, And Her",139,12,2
-Somebody New,55,12,2
-Greatest Hits-From The Beginning,140,12,2
-Learning As You Go,137,12,2
-Homegrown Love,141,12,2
-Close To The Edge,142,12,2
-Because The Night,143,3,2
-Greatest Hits Live!,144,48,2
-He's A Rebel Mini-Set,145,41,2
-Whitesnake,146,25,2
-Super Hits,147,12,2
-All-Time Greatest Hits,148,48,2
-The Coast Of Colorado,141,12,2
-Super Hits,149,12,2
-Ricochet,150,12,2
-All I Want,21,12,2
-Southern Comfort,151,12,2
-Cracked Rear View,152,48,2
-Souvenirs,153,12,2
-"Live, Laugh, Love",58,12,2
-Tattoos & Scars,154,12,2
-Mud On The Tires,155,12,2
-Live Alive,156,4,2
-Best Of The Best Carl Perkins,157,12,2
-16 Biggest Hits,158,12,2
-Headquarters,28,41,2
-"""My Guy"" Min-Set",159,45,2
-Talking Book,160,45,2
-Greatest Hits Volume 2,160,45,2
-Best Of The Doobies-Best of The Doobies Volume II,161,11,2
-More Great Dirt,162,12,2
-What I Do The Best,163,12,2
-Super Hits Vol. 3,164,12,2
-Country Gals,null,12,2
-New Beginning,116,11,2
-A Tribute To Merle Haggard & George Jones,164,12,2
-A Tribute To Merle Haggard & George Jones,165,12,2
-Straight Talk Music From The Motion Picture Soundtrack,25,12,2
-Goodnight Sweetheart,166,12,2
-No More Mr. Nice Guy,167,12,2
-Matters Of The Heart,168,12,2
-Greatest Hits Volume Two,169,12,2
-Willie Nelson's Greatest Hits (And Some That Will Be),170,12,2
-20 Greatest Hits,12,12,2
-Wild Night,171,48,2
-Wild Night,172,48,2
-Music From The Motion Picture Dangerous Minds,null,11,2
-The Best Of Country Sing The Best Of Disney,null,7,2
-Wild About My Lovin' Beale Street Blues 1928-1930,null,4,2
-Greatest Hits,38,12,2
-George Jones & Tammy Wynette Super Hits,165,12,2
-George Jones & Tammy Wynette Super Hits,35,12,2
-Diana Ross & The Supremes Every Great #1 Hit,5,45,2
-Diana Ross & The Supremes Every Great #1 Hit,173,45,2
-Peter Cottontail & Other Fun Songs ,null,7,3
-The Greatest Rock And Roll Hits,null,48,3
-Peter Pan Casper The Friendly Ghost Haunted House Tales,null,7,3
-Country Christmas,50,10,3
-Snow White And The Seven Dwarfs,null,7,3
-I Need You,148,41,3
-Beauty And The Beat,426,39,3
-Tony's Greatest Hits,427,33,3
-Wild Things!,428,48,3
-Famous Original Hits By 25 Great Country Music Artists,null,12,3
-Try Too Hard,429,48,3
-You Got What It Takes,429,48,3
-Million Sellers,148,41,3
-The New Gary Puckett And The Union Gap Album,430,41,3
-Golden Hits,147,12,3
-Golden Duets,275,45,3
-Greatest Hits Volume Two,431,41,3
-This Is Flying W Country,null,12,3
-Elvis The Other Sides Worldwide Gold Award Hits Vol. 2,29,11,3
-3 Volume Elvis' Golden Records,29,11,3
-Almost In Love,29,11,3
-C'mon Everybody ELVIS,29,11,3
-Elvis I Got Lucky,29,11,3
-"RCA Victor Presents Elvis in The Original Soundtrack Album From The Paramount Picture Paradise, Hawaiian Style",29,11,3
-Elvis-Back In Memphis,29,11,3
-From Elvis In Memphis,29,11,3
-Elvis Sings Christmas Songs Elvis' Christmas Album,29,10,3
-Dream Lovers,432,12,3
-Frankie & Johnny,29,11,3
-RCA Victor Presents Elvis in The Original Soundtrack Album From Metro-Goldwyn-Mayer Picture Harum Scarum,29,41,3
-RCA Victor Presents Elvis In The Original Soundtrack Album From Metro-Goldwyn-Mayer Picture SPINOUT,29,48,3
-That's The Way It Is,29,11,3
-Let's Be Friends,29,11,3
-Love Letters From Elvis,29,11,3
-Raspberries,433,48,3
-The Nashville Country Jamboree Today's Country Hits,434,12,3
-The Guitars Unlimited Play The Roger Miller Hit Songs,null,12,3
-Teen-Time Million Seller Hits By The Original Artists,null,11,3
-All The Hits With All The Stars,null,11,3
-C'mon And Swim,435,48,3
-Dance-A-Go-Go With All The Stars Vol. 2,null,48,3
-Shindig!,null,36,3
-More Of The Monkees,28,41,3
-The Supremes at The Copa,173,11,3
-The Original Golden Greats,null,41,3
-Yesterday And Today,293,48,3
-DETROLA Presents The Original Artists Of Rock & Roll,null,48,3
-Hey Jude,293,48,3
-Rubber Soul,293,48,3
-Songs From Mary Poppins,null,7,3
-Roger's and Hammerstein's The Sound Of Music,null,36,3
-Country Love,null,12,3
-Windsong,436,12,3
-Meet Claude King,437,12,3
-In Dreams,158,48,3
-The Monkees,28,41,3
-26 Top Hits ,null,48,3
-Papa's Got A Brand New Bag,438,22,3
-Santa Claus Is Coming To Town,null,10,3
-Children's Christmas Favorites,null,10,3
-The Little Drummer Boy,null,10,3
-The Christmas Drummer Boy,439,10,3
-The Little Drummer Boy,440,10,3
-Frosty The Snowman,null,10,3
-Thriller,273,11,3
-My Home's In Alabama,49,12,3
-Greatest Hits 2,441,12,3
-Hums Of The Lovin' Spoonful,442,48,3
-A Vocal Tribute To Hank Williams Great Country & Western Hits,443,12,3
-The Era Of Hank Williams ,444,12,3
-Godspell,null,36,3
-The Graduate Original Sound Track Recording,445,21,3
-All The Hits,446,41,3
-"Elvis In Person At The International Hotel Las Vegas, Nevada",29,11,3
-On Stage February 1970,29,11,3
-Roustabout The Original Soundtrack Album,29,11,3
-Current Hits Vol. No. 17,null,48,3
-Bookends,445,21,3
-Greatest Hits,447,48,3
-The Best Of Del Shannon,448,48,3
-At The Hop Starring the Four Seasons Also Starring Charlie Francis-Barbara Brown-The Buggs,449,48,3
-The Cars,450,48,3
-Greatest Hits,451,48,3
-Golden Greats,452,48,3
-The Young Rascals,453,48,3
-Walt Disney's Mary Poppins Original Cast Sound Track,null,36,3
-The Folk Album,454,11,3
-The Faces I've Been,213,48,3
-I Know A Place,455,41,3
-Born Late,456,41,3
-24 Original Happening Hits,null,48,3
-That's The Truth,43,12,1
-By Heart/Piano Solos,174,38,1
-The Ultimate Hits-3 Disk Set,42,12,1
-The Ultimate Collection,null,11,1
-The Best Of Etta James 20th Century Masters The Millennium Collection,176,45,1
-Buddy Jewel,177,12,1
-Elton John Live In Australia (With The Melbourne Symphony Orchestra),178,11,1
-Big Love In A Small Town,179,12,1
-Dress Rehearsal,180,12,1
-Come Away With Me,181,33,1
-Greatest Hits,182,48,1
-Greatest Hits,183,48,1
-Collection,184,12,1
-Call Me Irresponsible,185,41,1
-Sarah Buxton,186,12,1
-Coco,187,21,1
-Music Box,52,41,1
-Come On Come On,67,12,1
-The Deana Carter Collection,188,12,1
-Wild Together,189,12,1
-Believe,190,19,1
-How Do You Like Me Now?!,191,12,1
-Breathless,192,33,1
-Songs In A Minor,193,45,1
-All In The Family,194,12,1
-Wander This World,9,4,1
-If A Song Could Get Me You,195,41,1
-Everywhere We Go,196,12,1
-Greatest Hits 1982-1989,197,48,1
-25 All-Time Greatest Recordings,198,41,1
-Claudia Church,199,12,1
-Unplugged,200,11,1
-Just The Same,97,12,1
-Before Your Love/A Moment Like This,201,41,1
-Twelve Deadly Cync…And Then Some,202,41,1
-The Best Damn Thing,203,48,1
-Joey Lawrence,204,41,1
-Little Big Town,457,12,1
-Cake And Pie,130,11,1
-Lonestar,73,12,1
-jLo,205,41,1
-The Lynns,206,12,1
-Breakaway,201,41,1
-12 Greatest Hits,32,12,1
-Tammy Cochran,207,12,1
-Marc Cohn,208,48,1
-The Groove Machine,209,11,1
-Now & Forever,210,41,1
-David Cook,211,48,1
-Greatest Hits,212,45,1
-Time In A Bottle-All Time Favorites By Jim Croce,213,20,1
-Ironias,214,49,1
-Songs About Jane,215,48,1
-Vuelve,216,35,1
-Legend,217,46,1
-Amanda Marshall,218,45,1
-Enjoy The Ride,219,12,1
-The Best Of The Marvelettes-20th Century Masters The Millennium Collection,220,45,1
-Richard Marx,221,48,1
-That's Enough Of That,222,12,1
-Some Gave All,223,12,1
-Where It All Began,224,12,1
-I'm Yours,225,12,1
-The Fun Of Your Love,226,12,1
-Greatest Hits,227,41,1
-Destiny Fulfilled,228,45,1
-His 12 Greatest Hits,229,50,1
-Greatest Hits,142,12,1
-Falling Into You,230,41,1
-Home,6,12,1
-Yourself Or Someone Like You,231,3,1
-Heavier Things,232,11,1
-Emotion,7,12,1
-Complete,36,12,1
-Greatest Hits,233,12,1
-Mindy McCready,23,12,1
-It Was All A Dream,234,41,1
-Rockferry,235,11,1
-Popstars,236,11,1
-Emerson Drive,237,12,1
-Remix To Sing,238,45,1
-Yes I Am,239,27,1
-Shelley!-The Things We Did Last Summer,240,41,1
-The Dutchess,241,29,1
-Ken Burns Jazz,75,33,1
-The Battle Of Everything,242,3,1
-Build Me Up Buttercup,243,48,1
-Starting Over,22,12,1
-Back At One,244,45,1
-Bat Out Of Hell II: Back Into Hell,26,48,1
-The Encore Collection,245,20,1
-An American Fool,171,27,1
-Blues Train,246,4,1
-Faith,247,41,1
-The Big Room,248,41,1
-Soul's Core,249,3,1
-Over The Rainbow,250,51,1
-Greatest Hits,251,45,1
-The Best Of Crystal Gayle,47,12,1
-High Lonesome Sound,153,12,1
-The Best Of Lesley Gore,252,41,1
-House Of Love,253,50,1
-The Dreamer,254,45,1
-Hunter Hayes,255,12,1
-On A Good Night,256,12,1
-Stompin' Grounds,257,12,1
-Feel The Spirit,30,26,1
-What Am I Waiting For,258,12,1
-98° And Rising,259,41,1
-Brave,260,12,1
-Dreaming Out Loud,261,41,1
-O-Town,262,41,1
-Halos & Horns,25,12,1
-Breathe,4,12,1
-Greatest Hits 1985-1995,263,48,1
-Swimming In Champagne,264,12,1
-Jennifer Love Hewitt,265,41,1
-Taylor Hicks,266,11,1
-Greatest Hits,267,47,1
-Wheels,268,12,1
-Julianne Hough,269,12,1
-The Greatest Hits,61,11,1
-Rebecca Lynn Howard,270,12,1
-Bailamos,271,34,1
-Who I Am,15,12,1
-All For You,272,11,1
-Invincible,273,11,1
-Queen Of Rockabilly,274,47,1
-At Their Best,275,11,1
-Best Of Artist Of The Century,29,11,1
-1999,276,11,1
-Where I Belong,277,12,1
-PCD,278,45,1
-Corinne Bailey Rae,279,37,1
-Luck Of The Draw,280,5,1
-The Ranch,281,12,1
-Rascal Flatts,282,12,1
-Forever Your Girl,80,41,1
-18 Til I Die,41,48,1
-Big Ones,283,48,1
-Measure Of A Man,284,41,1
-Greatest Hits,285,50,1
-What Livin's All About,55,12,1
-For The Record 41 Number One Hits,49,12,1
-Pretty Belinda,286,41,1
-Who I Am,8,12,1
-Contra La Corriente,126,34,1
-16 Most Requested Songs,287,33,1
-Closer,288,12,1
-Love In The Real World,289,12,1
-The Day,290,45,1
-Sooner Or Later,291,42,1
-Made In The U.S.A.,292,52,1
-1,293,48,1
-Hopechest,294,12,1
-Bering Strait,295,12,1
-The Girl Next Door,296,12,1
-Awake And Breathe,297,41,1
-B Day Deluxe Edition,298,45,1
-Back To Bedlam Expanded Edition,299,50,1
-Greatest Hits 1985-1995,300,50,1
-New Jersey,107,48,1
-Evolution,13,45,1
-Memories Of Elvis,301,11,1
-Acoustic Soul,302,37,1
-"Mahalia Jackson ""Sings America's Favorite Hymns""",303,9,1
-Only The Heart,304,33,1
-The Best Of Collin Raye Direct Hits,305,12,1
-It Won't Be Long,306,42,1
-The Second Decade Of Rock And Roll 1981-1991,307,50,1
-Truly-The Love Songs,131,45,1
-Sittin' On Top Of The World,54,12,1
-Julie Roberts,308,12,1
-The Very Best Of Marty Robbins,309,12,1
-Greatest Hits,12,12,1
-Greatest Hits,310,11,1
-Just Another Coaster,311,12,1
-Savage Garden,312,41,1
-S Club 7,313,41,1
-Jon Secada,118,34,1
-All The Greatest Hits,314,41,1
-A Matter Of Time,315,12,1
-Laundry Service,316,34,1
-In Full View,317,12,1
-Fortune Teller's Melody,318,12,1
-Super Hits,319,12,1
-16 Greatest Hits,103,11,1
-The Best Of Simon & Garfunkel,320,20,1
-Star Search Winner: Jake Simpson ,321,45,1
-Sweet Kisses,322,41,1
-Frank Sinatra's Greatest Hits,323,33,1
-Change,324,12,1
-Grave Dancer's Union,325,3,1
-South Sixty Five,326,12,1
-Steel Magnolia,327,12,1
-Greatest Hits 1974-78,328,43,1
-Mind Body & Soul,329,45,1
-Carrying Your Love With Me,169,12,1
-Soulful,330,45,1
-Enjoy The Ride,331,12,1
-14:59,332,44,1
-Taylor Swift,333,12,1
-Pump Up The Jam,334,54,1
-The Best Of The Temptations-Volume 1-The 60's 20th Century Masters The Millennium Collection,335,45,1
-…Something To Be,336,11,1
-My World,337,12,1
-3 Of Hearts,338,12,1
-Every Time,339,12,1
-Trick Pony,340,12,1
-Complicated,341,12,1
-Come On Over,59,11,1
-Simply The Best,342,45,1
-Carnival Ride,343,12,1
-"Love, Pain, & The Whole Crazy Thing",344,12,1
-Phil Vassar,345,12,1
-Mario Vazquez,346,41,1
-Beautiful Day In The Cold Cruel World,347,12,1
-Jimmy Wayne,348,12,1
-The Best Of Mary Wells 20th Century Masters The Millennium Collection,159,45,1
-The Best Of Barry White 20th Century Masters The Millennium Collection,349,45,1
-Between Now And Forever,16,12,1
-Highway,57,12,1
-The Comfort Zone,350,45,1
-Here For The Party,351,12,1
-California,104,41,1
-Some Things I Know,34,12,1
-The Definitive Collection,160,11,1
-Sand Still-Look Pretty,352,12,1
-Let Me In,353,12,1
-Elliott Yamin,354,45,1
-Inside Out,355,12,1
-Everything Is 4,356,11,1
-Try This,357,42,1
-Moonshine In The Trunk,155,12,1
-Kiss,358,42,1
-Live Like You Were Dying,21,12,1
-"Old Boots, New Dirt",359,12,1
-Everyday,360,3,1
-The Better Life-Deluxe Edition,361,3,1
-Seminole Wind,362,12,1
-"3 Years, 5 Months, & 2 Days In The Life Of…",363,29,1
-The Best Of Atlantic Rhythm Section,364,50,1
-The Best Of B.B. King 20th Century Masters The Millennium Collection,365,4,1
-CD1: Famous Sonatas For Piano,366,8,1
-WBBD-BootCity! The Remix Album,367,29,1
-Ultimate Legends,368,48,1
-Blind Melon,369,43,1
-"Time, Love, And Tenderness",300,50,1
-Take Me Back To Chicago,197,50,1
-August And Everything After,370,3,1
-Duran Duran,371,53,1
-Reach,372,12,1
-"Hold Me, Thrill Me, Kiss Me",373,34,1
-Compact Jazz,374,33,1
-The Very Best..And Beyond,375,50,1
-Greatest Hits,376,18,1
-(Refugee Camp) The Score,377,29,1
-Dreams,378,45,1
-New Miserable Experience,379,3,1
-The Greatest Of The Guess Who,380,48,1
-Living In A Moment,381,12,1
-The Power Of Great Music,382,45,1
-Pieces Of You,383,11,1
-River Of Dreams,384,48,1
-American Roots: Blues,385,4,1
-Greatest Hits Volume One,191,12,1
-Wings Of A Honky Tonk Angel,386,12,1
-Jagged Little Pill,387,3,1
-Bang Masters,388,11,1
-Lean Into It,389,28,1
-Tragic Kingdom,390,11,1
-4. Without You,391,3,1
-"P.M. Dawn Of The Heart, Of The Soul, And Of The Cross: The Utopian Experience",392,29,1
-Greatest Hits,89,27,1
-Livewired,393,1,1
-Measure Of A Man,394,12,1
-Hot Rocks 1964-1971,395,48,1
-Wheels,396,12,1
-Blood Sugar Sex Magik,397,11,1
-Redmon & Vale,398,12,1
-A Song For You,399,4,1
-The Dream,400,12,1
-The Premiere Collection Encore,401,11,1
-Angel Eyes,402,12,1
-Hypnotize The Moon,58,12,1
-Greatest Hits,403,4,1
-The Joshua Tree,404,48,1
-Faster Than The Speed Of Night,405,27,1
-Greatest Hits Volume One,406,12,1
-Affection,407,48,1
-Wish You Were Here,408,12,1
-Greatest Hits,409,12,1
-Regina Regina,410,12,1
-The Songs Of Bessie Smith-The Cotton Collection,411,33,1
-In Time,412,12,1
-Brand New Year,318,12,1
-Now That's What I Call Christmas!,null,10,1
-Father Christmas,188,12,1
-Christmas Island,40,32,1
-The Best Of Jackson 5 20th Century Masters Christmas Collection,175,10,1
-Hula Party,null,26,1
-My Kind Of Christmas,413,10,1
-Christmas Harmonies,414,10,1
-Hey Santa!,415,10,1
-Country Christmas 2001,null,10,1
-Happy Holidays-25 Christmas Songs ,null,10,1
-Classic Country Christmas 3 CD Set,null,10,1
-8 Days Of Christmas,228,10,1
-Holiday Sounds Of The Season 2001,null,10,1
-The Gift,12,10,1
-Wrangler Cowboy Christmas Volume VIII,null,10,1
-Christmas Time With The Judds,38,10,1
-Merry Christmas With Love,284,10,1
-Disney's CHRISTMAS COLLECTION,null,10,1
-Christmas Volume II,49,10,1
-JOY,174,10,1
-The Gift,174,10,1
-Anastasia Music From The Motion Picture,null,36,1
-Phantom Of The Opera The Original Cast Recording,null,36,1
-The Best Of Ballroom Shall We Dance,null,34,1
-Journeys Of The Flute,416,30,1
-Where The Heart Is Music From The Motion Picture,null,11,1
-20 Million Dollar Memories,null,11,1
-Ray Original Motion Picture Soundtrack,null,11,1
-Tribute To Notorious B.I.G. I'll Be Missing You/I'll Big Poppa/Cry On,null,29,1
-Titanic Music From The Motion Picture,null,11,1
-Three Decades Of Country,null,12,1
-The Legendary Story Of Sun Records 2CD,null,11,1
-Slack Key Guitar Volume 2,null,11,1
-Selena The Original Motion Picture Soundtrack ,null,34,1
-Sensuous Sax The Spark,null,33,1
-Music From The Motion Picture Save The Last Dance,null,11,1
-Music From The TV Show Popstars Scene 23,417,41,1
-RENT By Jonathon Larson Original Broadway Cast Recording /Two Disc Set,null,36,1
-New Orleans,418,11,1
-Kathy Kaehler Fitness Cardio Workout Music Mix,null,13,1
-Biggest Loser 30 Minute Workout Mix,null,41,1
-Ultimate Sports Jams Music,null,48,1
-Pure Disco,417,14,1
-"Music From The Television Show ""The Heights""",null,42,1
-NOW 20,null,11,1
-NOW 23,null,11,1
-NOW 32,null,11,1
-GREASE! The New Broadway Cast Recording,null,36,1
-Hairspray Soundtrack To The Motion Picture,null,36,1
-Gotta Get It Hits Teen Pop,null,41,1
-The Biggest Loser Workout Mix:  Top 40 Hits,null,41,1
-South Beach Salsa,null,49,1
-Zumba Fitness Greatest Hits,null,11,1
-Bluelight Fitness,null,2,1
-BELIEVE Original Soundtrack,null,30,1
-Bailando Con Los Exitos 2000,null,34,1
-A Walk To Remember Music From The Motion Picture,null,11,1
-Steven Spielberg Presents ANIMANIACS,null,7,1
-American Idol Greatest Moments,null,11,1
-MEMPHIS Original Broadway Cast Recording,null,36,1
-Come Together/America Salutes The Beatles,null,12,1
-Club Mix 2000,null,13,1
-MAVERICK…The Soundtrack ,null,12,1
-Dance With Me Music From The Motion Picture,null,11,1
-Mama Mia! The Movie Soundtrack Featuring The Songs Of ABBA,null,36,1
-Music From The Motion Picture City of Angels,null,48,1
-Ladies Of The 60's,null,15,1
-Drews Famous Latin Pop Sensations,null,34,1
-Winter Into Spring,419,8,1
-Sun Splashin',null,11,1
-A Collection From The Windham Hill Group Tranquility,null,16,1
-SHOW BOAT World Premiere Cast Recording,null,6,1
-Songs Of Love Victoria's Secret exclusive,420,11,1
-Piano Dreams-Fur Elise,null,8,1
-Piano Cascades,null,38,1
-Pure Moods,null,38,1
-Opera's Greatest Love Songs,null,40,1
-NOISE Happy Tracks ,null,41,1
-New Country-Volume 4-Number 10,null,12,1
-New Country-Volume 4-Number 7,null,12,1
-CD 1:Music For Meditation Vol. 1,null,8,1
-Ladies Sing The Blues,null,4,1
-KRAFT Country Tour '96,null,12,1
-KIDZ BOP 4,null,41,1
-KIDZ BOP 1,null,41,1
-Walt Disney Productions Presents Beauty And The Beast The Broadway Musical Original Broadway Cast Recording,null,6,1
-Get The Blues!,null,4,1
-International Flavors FRANCE,null,31,1
-The Best Of Country 3 CDs,null,12,1
-Kellogg's Presents Driving 'Em Crazy Volume 3,null,12,1
-Kellogg's Presents Driving 'Em Crazy Volume 2,null,12,1
-Kellogg's Presents Driving 'Em Crazy Volume 1,null,12,1
-Clairol Herbal Essences,259,41,1
-The Gift Of Romance A Windham Hill Sampler,null,2,1
-"Today, Tomorrow, & Forever",29,11,1
-The Limited Series 1,42,12,1
-The Limited Series 2,42,12,1
-Followin' A Feelin',289,12,1
-Angels Of Mercy,288,9,1
-Susan Ashton,288,12,1
-Best Of Ella Fitzgerald & Louis Armstrong,75,33,1
-Best Of Ella Fitzgerald & Louis Armstrong,287,33,1
-Marc Anthony,126,34,1
-Have A Nice Day,107,48,1
-Crush,107,48,1
-Into Your Head,291,48,1
-Words,289,12,1
-Streets Of Heaven,289,12,1
-"The Music Of ""Mahalia Jackson""",303,23,1
-Tracks,305,12,1
-20 Great Years,12,12,1
-Affirmation,312,50,1
-Oral Fixation Vol. 2,316,34,1
-Knock On The Sky,318,12,1
-Sweet Right Here,318,12,1
-The Whole SHeBANG,318,12,1
-Under The Kudzu,319,12,1
-The Shirelles-16 Greatest Hits,103,15,1
-Whatever Comes First,324,12,1
-Twice The Speed Of Life,331,12,1
-Fearless,333,12,1
-1989,333,12,1
-Speak Now,333,12,1
-What I Really Meant To Say,337,12,1
-The Complete Limelight Sessions,421,12,1
-Greatest Hits,59,12,1
-Up!,59,12,1
-Play On,343,12,1
-Some Hearts,343,12,1
-Be Here,344,12,1
-Defying Gravity,344,12,1
-Get Closer,344,12,1
-Golden Road,344,12,1
-Guilty,347,12,1
-King Of Nothing,347,12,1
-Well-Deserved Obscurity,347,12,1
-How Lucky I Am,16,12,1
-The Right Place,16,12,1
-Here And Now,57,12,1
-Something Worth Leaving Behind,34,12,1
-The Metropolitan Hotel,353,12,1
-Never Love You Enough,353,12,1
-Single White Female,353,12,1
-Real Live Woman,355,12,1
-(Songbook) A Collection Of Hits,355,12,1
-"History Past, Present And Future Book 1",273,11,1
-Red,333,12,1
-Greatest Hits,190,48,1
-Biggest Loser Top 40 Vol. 4,null,41,1
-It's Time,422,11,1
-How Do I Live,355,12,1
-How Do I Live,54,12,1
-Ballads,174,38,1
-Dancin' On The Boulevard,49,12,1
-A Song For My Daughter,null,2,1
-Compact Jazz,75,33,1
-Passion In My Heart,423,31,1
-Greatest Hits Volume I & Volume II,384,48,1
-The Bliss Album…?,392,29,1
-Songs From My Heart-Aus Meinem Herzen,424,8,1
-Grandes Exitos,118,34,1
-Rumor Has It,58,12,1
-Destiny,174,38,1
-Missing Moments,174,38,1
-No Words,174,38,1
-Picture This,174,38,1
-Simple Things,174,38,1
-Garth Brooks as Chris Gaines Lost In You,42,11,1
-Man Against The Machine,42,12,1
-Scarecrow,42,12,1
-Sevens,42,12,1
-Room With A View,180,12,1
-The Other Side,184,12,1
-What The World Needs Now Is Love,184,12,1
-Did I Shave…? ,188,12,1
-Everything's Gonna Be Alright,188,12,1
-I'm Just A Girl,188,12,1
-The Chain,188,12,1
-The Story Of My Life,188,12,1
-Just Between You And Me,194,12,1
-II,194,12,1
-Long Time Coming,9,4,1
-Turn Around,9,4,1
-Heart Of Stone,190,48,1
-Chicago IX Chicago's Greatest Hits,197,50,1
-Chicago Music From The Miramax Motion Picture,null,36,1
-Slowhand,200,4,1
-Firecracker,130,48,1
-Crazy Nights,73,12,1
-Lonely Grill,73,12,1
-Shoes,206,12,1
-II,206,12,1
-Thankful,201,41,1
-Life Happened,207,12,1
-C.M.B.,210,45,1
-Repeat Offender,221,50,1
-Rush Street,221,50,1
-The Strong One,222,12,1
-Breakaway,201,41,1
-Some Things Are Meant To Be,225,12,1
-Let's Talk About Love,230,41,1
-Room For Squares,232,4,1
-Evolution,7,12,1
-Martina,7,12,1
-The Time Has Come/The Way That I Am/Wild Angels-Triple Feature,7,12,1
-Wake Up Laughing,7,12,1
-The Way That I Am,7,12,1
-Long Time Gone,6,12,1
-The Very Best Of En Vogue,238,45,1
-If I Don't Stay The Night,23,12,1
-Welcome To The Neighborhood,26,48,1
-Shades Of Purple,248,11,1
-Anthology II 1984-2001,30,26,1
-Shiver,260,12,1
-Heartbreaker,25,12,1
-Heartsongs,25,12,1
-Hungry Again,25,12,1
-I Will Always Love You And Other Greatest Hits,25,12,1
-Cry,4,12,1
-Faith,4,12,1
-Fireflies,4,12,1
-Just Whitney,61,11,1
-Whitney,61,11,1
-Forgive,270,12,1
-No Rules,270,12,1
-Design Of A Decade 1986/1996,272,11,1
-Thriller,273,11,1
-The Best Of Freda Payne,425,45,1
-Two Of A Kind,275,45,1
-Nick Of Time,280,11,1
-Feel Like Today,282,12,1
-"""Live""",282,12,1
-Me And My Gang,282,12,1
-Melt,282,12,1
-Still Feels Good,282,12,1
-Unstoppable,282,12,1
+FirstName,LastName,GroupName,AlbumTitle,Genre,Format
+Aretha,Franklin,null,The Very Best of Aretha Franklin,R&B/Soul,Cassette Tape
+Jo Dee,Messina,null,I'm Alright,Country,Cassette Tape
+null,null,Lace,Lace,Country,Cassette Tape
+Faith,Hill,null,It Matters To Me,Country,Cassette Tape
+Faith,Hill,null,Take Me As I Am,Country,Cassette Tape
+Diana,Ross,Supremes,Diana Ross & The Supremes Every Great #1 Hit,R&B/Soul,Cassette Tape
+null,null,Dixie Chicks,Fly,Country,Cassette Tape
+Martina,McBride,null,Evolution,Country,Cassette Tape
+Marina,McBride,null,Greatest Hits,Country,Cassette Tape
+Jessica,Andrews,null,Heart Shaped World,Country,Cassette Tape
+Jonny,Lang,null,Lie To Me,Blues,Cassette Tape
+Keb',Mo',null,Keb' Mo',Blues,Cassette Tape
+null,null,Fleetwood Mac,Behind The Mask,Rock,Cassette Tape
+null,null,Fleetwood Mac,Greatest Hits,Rock,Cassette Tape
+Kenny,Rogers,null,Kenny Rogers Christmas,Christmas,Cassette Tape
+null,null,null,Disney's Christmas Collection II,Christmas,Cassette Tape
+null,null,null,A Very Special Christmas,Christmas,Cassette Tape
+null,null,Boyz II Men,Boyz II Men Christmas Interpretations,Christmas,Cassette Tape
+Jose,Feliciano,null,Jose Feliciano Feliz Navidad,Christmas,Cassette Tape
+null,null,null,Citgo Country Christmas 1995,Christmas,Cassette Tape
+null,null,null,Country Christmas,Christmas,Cassette Tape
+null,null,null,A Very Special Christmas 2,Christmas,Cassette Tape
+null,null,null,Dollywood Smoky Mountain Memories Christmas Favorites,Christmas,Cassette Tape
+Kenny,Rogers,null,Christmas With Kenny Rogers,Christmas,Cassette Tape
+null,null,Alabama,Christmas Memories From Elvis & Alabama,Christmas,Cassette Tape
+Elvis,Presley,null,Christmas Memories From Elvis & Alabama,Christmas,Cassette Tape
+Alan,Jackson,null,High Mileage,Country,Cassette Tape
+Bryan,White,null,Bryan White,Country,Cassette Tape
+Madonna,null,null,True Blue,Pop,Cassette Tape
+Madonna,null,null,The Immaculate Collection,Pop,Cassette Tape
+Barry,Manilow,null,Greatest Hits Volume I,Pop,Cassette Tape
+null,null,The Kids From Fame,The Kids From Fame Live!,Rock,Cassette Tape
+null,null,Everly Brothers,Golden Hits of the Everly Brothers,Pop,Cassette Tape
+Tim,McGraw,null,Everywhere,Country,Cassette Tape
+Reba,McEntire,null,What If It's You,Country,Cassette Tape
+Reba,McEntire,null,Read My Mind,Country,Cassette Tape
+Reba,McEntire,null,Greatest Hits Volume Two,Country,Cassette Tape
+Mindy,McCready,null,I'm Not So Tough,Country,Cassette Tape
+null,null,null,Music From The Motion Picture Now and Then,Combination,Cassette Tape
+null,null,NSYNC,Celebrity,Pop,Cassette Tape
+Dolly,Parton,null,Greatest Hits,Country,Cassette Tape
+Tim,McGraw,null,Not A Moment Too Soon,Country,Cassette Tape
+Meatloaf,null,null,Bat Out Of Hell,Rock,Cassette Tape
+Mozart,null,null,Mozart Famous Overtures,Classical,Cassette Tape
+null,null,The Monkees,The Essentials The Monkees,Rock,Cassette Tape
+Elvis,Presley,null,Girl Happy,Combination,Cassette Tape
+null,null,Na Leo Pilimehana,"Na Leo Pilimehana I Miss You, My Hawai'i",Hawaiian,Cassette Tape
+David Lee,Murphy,null,Getting' Out The Good Stuff,Country,Cassette Tape
+Patsy ,Cline,null,Patsy Cline at her Best,Country,Cassette Tape
+null,null,Little Texas,Little Texas,Country,Cassette Tape
+Lee Ann,Womack,null,I Hope You Dance,Country,Cassette Tape
+Tammy,Wynette,null,Tammy Wynette 20 Greatest Hits,Country,Cassette Tape
+Lila,McCann,null,Lila,Country,Cassette Tape
+Charlie,Daniels,null,Super Hits,Country,Cassette Tape
+Lila,McCann,null,Something In The Air,Country,Cassette Tape
+null,null,The Judds,The Judds greatest hits volume two,Country,Cassette Tape
+Betty,Everett,null,Betty Everett greatest hits,R&B/Soul,Cassette Tape
+Jimmy,Buffet,null,Songs You Know By Heart-Jimmy Buffet's Greatest Hit(s),Island,Cassette Tape
+Bryan,Adams,null,Waking Up The Neighbors,Rock,Cassette Tape
+Jo Dee,Messina,null,Jo Dee Messina,Country,Cassette Tape
+Garth,Brooks,null,The Hits,Country,Cassette Tape
+Paul,Brandt,null,Calm Before The Storm,Country,Cassette Tape
+Barry,Manilow,null,Greatest Hits Volume III,Pop,Cassette Tape
+null,null,Boyz II Men,II,R&B/Soul,Cassette Tape
+null,null,The Byrds',Byrds' Greatest Hits,Rock,Cassette Tape
+Jerry Lee,Lewis,null,The Golden Rock Hits of Jerry Lee Lewis,Rock,Cassette Tape
+Patsy ,Benatar,null,Best Shots,Rock,Cassette Tape
+Crystal,Gayle,null,Greatest Hits,Country,Cassette Tape
+null,null,null,Grease Original Motion Picture Soundtrack,Musical,Cassette Tape
+null,null,null,Grease 2 Original Soundtrack Recording,Musical,Cassette Tape
+null,null,Herman's Hermits,Their Greatest Hits,Rock,Cassette Tape
+null,null,Alabama,Alabama-The Closer You Get…,Country,Cassette Tape
+Loretta,Lynn,null,Country Music Hall of Fame Series,Country,Cassette Tape
+Irene,Cara,null,What A Feelin',Pop,Cassette Tape
+null,null,Alabama,Alabama-Christmas,Christmas,Cassette Tape
+Mariah,Carey,null,#1's,Combination,Cassette Tape
+Mariah,Carey,null,Daydream,Combination,Cassette Tape
+Mariah,Carey,null,MTV Unplugged EP,Combination,Cassette Tape
+null,null,Eagles,Hell Freezes Over,Rock,Cassette Tape
+Leann,Rimes,null,Unchained Melody/The Early Years,Country,Cassette Tape
+Rhett,Akins,null,A Thousand Memories,Country,Cassette Tape
+Leann,Rimes,null,You Light Up My Life,Country,Cassette Tape
+null,null,The Chiffons,"Boys, Boys, Boys",Pop,Cassette Tape
+null,null,The Wilkinsons,Nothing But Love,Country,Cassette Tape
+Clay,Walker,null,If I Could Make A Living,Country,Cassette Tape
+Clay,Walker,null,Clay Walker,Country,Cassette Tape
+Shania,Twain,null,The Woman In Me,Country,Cassette Tape
+Kenny,Rogers,null,Kenny Rogers and Dolly Parton-Once Upon A Christmas,Christmas,Cassette Tape
+Dolly,Parton,null,Kenny Rogers and Dolly Parton-Once Upon A Christmas,Christmas,Cassette Tape
+null,null,USA for Africa,We Are The World,Pop,Cassette Tape
+null,null,Eagles,Greatest Hits Volume 2,Rock,Cassette Tape
+Whitney,Houston,null,Whitney Houston and Cece Winans Count on Me,Combination,Cassette Tape
+Cece,Winans,null,Whitney Houston and Cece Winans Count on Me,Combination,Cassette Tape
+null,null,Natural Selection featuring Niki Haris,Do Anything,Electronic,Cassette Tape
+null,null,Dixie Chicks,Wide Open Spaces,Country,Cassette Tape
+Sonya,Isaacs,null,Sonya Isaacs,Country,Cassette Tape
+Howlin',Wolf,null,His Greatest Sides Vol. 1,Blues,Cassette Tape
+Belinda,Carlisle,null,Heaven On Earth,Rock,Cassette Tape
+Mary Chapin,Carpenter,null,Stones In The Road,Country,Cassette Tape
+Shaun,Cassidy,null,Greatest Hits,Pop,Cassette Tape
+null,null,The Angels,My Boyfriend's Back,Pop,Cassette Tape
+null,null,The Bangles,Super Hits,Rock,Cassette Tape
+Lynard,Skynard,null,Skynard's Innyrds/Their Greatest Hits,Combination,Cassette Tape
+Leann,Rimes,null,Blue,Country,Cassette Tape
+Charlie,Pride,null,24 Greatest Hits,Country,Cassette Tape
+Elvis,Presley,null,20 Love Songs,Combination,Cassette Tape
+Leann,Womack,null,Lee Ann Womack,Country,Cassette Tape
+Whitney,Houston,null,Why Does It Hurt So Bad,Combination,Cassette Tape
+Whitney,Houston,null,"Exhale (Shoop, Shoop)",Combination,Cassette Tape
+Whitney,Houston,null,I Will Always Love You,Combination,Cassette Tape
+null,null,Lonestar,This Christmas Time,Christmas,Cassette Tape
+"Nat ""King"" ",Cole,null,"Nat ""King"" Cole/Ella Fitzgerald The Magic Of Christmas",Christmas,Cassette Tape
+Ella,Fitzgerald,null,"Nat ""King"" Cole/Ella Fitzgerald The Magic Of Christmas",Christmas,Cassette Tape
+null,null,Mr. Big,Bump Ahead,Rock,Cassette Tape
+Mandy,Moore,null,Mandy Moore,Pop,Cassette Tape
+Otis,Redding,null,The Essentials,Rock,Cassette Tape
+Tiffany,null,null,Tiffany,Pop,Cassette Tape
+Paula,Abdul,null,Spellbound,Pop,Cassette Tape
+null,null,New Edition,Home Again,R&B/Soul,Cassette Tape
+null,null,null,"The Unplugged Collection, Volume One",Rock,Cassette Tape
+null,null,null,Salem Spirit-Concert Series '84,Pop,Cassette Tape
+Dino,null,null,Ooh Child,Pop,Cassette Tape
+Rufus,Thomas,null,Rufus Thomas,Blues,Cassette Tape
+Shania,Twain,null,Shania Twain,Country,Cassette Tape
+Mandy,Moore,null,So Real,Pop,Cassette Tape
+James,Taylor,null,Greatest Hits,Folk,Cassette Tape
+null,null,Salt-N-Pepa,Blacks' Magic,Combination,Cassette Tape
+Kippi,Brannon,null,I'd Be With You,Country,Cassette Tape
+Lari,White,null,Wishes,Country,Cassette Tape
+null,null,Trick Pony,On A Mission,Country,Cassette Tape
+Bruce,Springsteen,null,Born In The U.S.A.,Rock,Cassette Tape
+null,null,Survivor,Greatest Hits,Rock,Cassette Tape
+Diana,Ross,Supremes,Diana Ross & The Supremes A Bit of Liverpool,R&B/Soul,Cassette Tape
+null,null,null,Gospel's Top 20 The All-Time Favorites,Gospel,Cassette Tape
+Ruth,Brown,null,The Essentials,R&B/Soul,Cassette Tape
+Loretta,Lynn,null,"The Lady, The Legend",Country,Cassette Tape
+Bryan,Adams,null,Do I Have To Say The Words?,Rock,Cassette Tape
+Joshua,Kadison,null,Jessi,Pop,Cassette Tape
+Frederic,Chopin,null,Romantic Piano,Classical,Cassette Tape
+null,null,Little Texas,What Might Have Been,Country,Cassette Tape
+null,null,Bruce & Jerry,In The Beginning…Vol. I,Rock,Cassette Tape
+Natalie,Merchant,null,Tigerlily,Alternative Rock,Cassette Tape
+null,null,Red Hot Chili Peppers,Under The Bridge,Funk,Cassette Tape
+Terri,Clark,null,When Boy Meets Girl,Country,Cassette Tape
+Billie,Holiday,null,The Essence of Billie Holiday,Jazz,Cassette Tape
+null,null,null,Chipmunks in Low Places,Combination,Cassette Tape
+null,null,null,Stone Country Country Artists Perform The Songs Of The Rolling Stones,Combination,Cassette Tape
+Tammy,Wynette,null,Without Walls,Country,Cassette Tape
+Anita,Cochran,null,Back To You,Country,Cassette Tape
+Nikki,French,null,Total Eclipse Of The Heart,Electronic Dance,Cassette Tape
+null,null,The B52's,Love Shack,New Wave,Cassette Tape
+null,null,Tony Toni Tone,"""If I Had No Loot""",R&B/Soul,Cassette Tape
+Patsy,Cline,,Walkin' After Midnight,Country,Cassette Tape
+null,null,The Shirelles,28 Big Ones,Combination,Cassette Tape
+null,null,Wilson Phillips,Wilson Phillips,Pop,Cassette Tape
+null,null,Jacksons,Victory,Pop,Cassette Tape
+null,null,Boyz II Men,It's So Hard To Say  Goodbye To Yesterday,R&B/Soul,Cassette Tape
+null,null,null,Pocahontas An Original Walt Disney Records Soundtrack,Combination,Cassette Tape
+Kylie,Minogue,null,Kylie,Pop,Cassette Tape
+null,null,Bon Jovi,Bon Jovi,Rock,Cassette Tape
+null,null,Genesis,We Can't Dance,Rock,Cassette Tape
+Patsy,Montana,null,Inducted Into The Hall Of Fame 1996,Country,Cassette Tape
+Christopher,Cross,null,Back Of My Mind,Soft Rock,Cassette Tape
+Eddie,Rabbitt,null,#1's,Country,Cassette Tape
+Lee,Greenwood,null,Greatest Hits,Country,Cassette Tape
+null,null,NuFlavor,Heaven/Havin' A Party,R&B/Soul,Cassette Tape
+Merril,Bainbridge,null,Mouth,Pop,Cassette Tape
+Gary,Richard,null,Island Fever,Combination,Cassette Tape
+Tracy,Chapman,null,Give Me One Reason,Combination,Cassette Tape
+null,null,Inner Circle,Sweat (A La La La La Long),Reggae,Cassette Tape
+Jon,Secada,null,If You Go,Latin,Cassette Tape
+M.C. Hammer,,null,Please Hammer Don't Hurt 'Em,Combination,Cassette Tape
+null,null,America,History/America's Greatest Hits,Soft Rock,Cassette Tape
+null,null,Queen,Greatest Hits,Rock,Cassette Tape
+null,null,NSYNC,Music Of My Heart,Pop,Cassette Tape
+Gloria,Estefan,null,Music Of My Heart,Pop,Cassette Tape
+Phil,Collins,null,Serious Hits…Live!,Pop,Cassette Tape
+null,null,Indigo Girls,Rites Of Passage,Folk Pop,Cassette Tape
+Kenny Wayne,Shepherd,null,Ledbetter Heights,Combination,Cassette Tape
+Marc,Anthony,null,Mended,Latin,Cassette Tape
+Shawn,Colvin,null,Cover Girl,Rock,Cassette Tape
+Patty,Smith,null,Patty Smith,Rock,Cassette Tape
+Rod,Stewart,null,Have I Told You Lately,Rock,Cassette Tape
+Lisa,Loeb,null,Stay (I Missed You),Combination,Cassette Tape
+null,null,null,Footloose (Original Motion Picture Soundtrack),Combination,Cassette Tape
+Lionel,Ritchie,null,"""Dancing On The Ceiling""",R&B/Soul,Cassette Tape
+null,null,All-4-One,All-4-One,R&B/Soul,Cassette Tape
+Darryl,Worley,null,When You Need My Love,Country,Cassette Tape
+Sheryl,Crow,null,Tuesday Night Music Club,Rock,Cassette Tape
+null,null,The Tony Rich Project,Nobody Knows,Combination,Cassette Tape
+null,null,Kyper,"""Tic-Tac-Toe""",Combination,Cassette Tape
+Rick,Trevino,null,Looking For The Light,Country,Cassette Tape
+null,null,Bon Jovi,Slippery When Wet,Rock,Cassette Tape
+null,null,Firehouse,Firehouse,Hard Rock,Cassette Tape
+Sammy,Kershaw,null,"Politics, Religion, And Her",Country,Cassette Tape
+Rhett,Akins,null,Somebody New,Country,Cassette Tape
+Travis,Tritt,null,Greatest Hits-From The Beginning,Country,Cassette Tape
+Rick,Trevino,null,Learning As You Go,Country,Cassette Tape
+Skip,Ewing,null,Homegrown Love,Country,Cassette Tape
+null,null,Diamond Rio,Close To The Edge,Country,Cassette Tape
+null,null,"10,000 Maniacs",Because The Night,Alternative Rock,Cassette Tape
+Don,McLean,null,Greatest Hits Live!,Rock,Cassette Tape
+null,null,The Crystals,He's A Rebel Mini-Set,Pop,Cassette Tape
+null,null,Whitesnake,Whitesnake,Hard Rock,Cassette Tape
+Roger,Miller,null,Super Hits,Country,Cassette Tape
+Ricky,Nelson,null,All-Time Greatest Hits,Rock,Cassette Tape
+Skip,Ewing,null,The Coast Of Colorado,Country,Cassette Tape
+Doug,Stone,null,Super Hits,Country,Cassette Tape
+null,null,Ricochet,Ricochet,Country,Cassette Tape
+Tim,McGraw,null,All I Want,Country,Cassette Tape
+Conway,Twitty,null,Southern Comfort,Country,Cassette Tape
+null,null,Hootie & The Blowfish,Cracked Rear View,Rock,Cassette Tape
+Vince,Gill,null,Souvenirs,Country,Cassette Tape
+Clay,Walker,null,"Live, Laugh, Love",Country,Cassette Tape
+null,null,Montgomery Gentry,Tattoos & Scars,Country,Cassette Tape
+Brad,Paisley,null,Mud On The Tires,Country,Cassette Tape
+Stevie Ray,Vaughn,and Double Trouble,Live Alive,Blues,Cassette Tape
+Carl,Perkins,null,Best Of The Best Carl Perkins,Country,Cassette Tape
+Roy,Orbison,null,16 Biggest Hits,Country,Cassette Tape
+null,null,The Monkees,Headquarters,Pop,Cassette Tape
+Mary,Wells,null,"""My Guy"" Min-Set",R&B/Soul,Cassette Tape
+Stevie,Wonder,null,Talking Book,R&B/Soul,Cassette Tape
+Stevie,Wonder,null,Greatest Hits Volume 2,R&B/Soul,Cassette Tape
+null,null,The Doobie Brothers,Best Of The Doobies-Best of The Doobies Volume II,Combination,Cassette Tape
+null,null,Nitty Gritty Dirt Band,More Great Dirt,Country,Cassette Tape
+John Michael,Montgomery,null,What I Do The Best,Country,Cassette Tape
+Merle,Haggard,null,Super Hits Vol. 3,Country,Cassette Tape
+null,null,null,Country Gals,Country,Cassette Tape
+Tracy,Chapman,null,New Beginning,Combination,Cassette Tape
+Merle,Haggard,null,A Tribute To Merle Haggard & George Jones,Country,Cassette Tape
+George,Jones,null,A Tribute To Merle Haggard & George Jones,Country,Cassette Tape
+Dolly,Parton,null,Straight Talk Music From The Motion Picture Soundtrack,Country,Cassette Tape
+David,Kersh,null,Goodnight Sweetheart,Country,Cassette Tape
+Steve,Wariner,null,No More Mr. Nice Guy,Country,Cassette Tape
+null,null,Restless Heart,Matters Of The Heart,Country,Cassette Tape
+George,Strait,null,Greatest Hits Volume Two,Country,Cassette Tape
+Willie,Nelson,null,Willie Nelson's Greatest Hits (And Some That Will Be),Country,Cassette Tape
+Kenny,Rogers,null,20 Greatest Hits,Country,Cassette Tape
+John Cougar,Mellencamp,null,Wild Night,Rock,Cassette Tape
+Me'Shell,Ndegeocello,null,Wild Night,Rock,Cassette Tape
+null,null,null,Music From The Motion Picture Dangerous Minds,Combination,Cassette Tape
+null,null,null,The Best Of Country Sing The Best Of Disney,Children's,Cassette Tape
+null,null,null,Wild About My Lovin' Beale Street Blues 1928-1930,Blues,Cassette Tape
+null,null,The Judds,Greatest Hits,Country,Cassette Tape
+George,Jones,null,George Jones & Tammy Wynette Super Hits,Country,Cassette Tape
+Tammy,Wynette,null,George Jones & Tammy Wynette Super Hits,Country,Cassette Tape
+Diana,Ross,null,Diana Ross & The Supremes Every Great #1 Hit,R&B/Soul,Cassette Tape
+null,null,The Supremes,Diana Ross & The Supremes Every Great #1 Hit,R&B/Soul,Cassette Tape
+null,null,null,Peter Cottontail & Other Fun Songs ,Children's,Record
+null,null,null,The Greatest Rock And Roll Hits,Rock,Record
+null,null,null,Peter Pan Casper The Friendly Ghost Haunted House Tales,Children's,Record
+Loretta,Lynn,null,Country Christmas,Christmas,Record
+null,null,null,Snow White And The Seven Dwarfs,Children's,Record
+Ricky,Nelson,null,I Need You,Pop,Record
+null,null,Go-Go's,Beauty And The Beat,New Wave,Record
+Tony,Bennett,null,Tony's Greatest Hits,Jazz,Record
+null,null,The Ventures,Wild Things!,Rock,Record
+null,null,null,Famous Original Hits By 25 Great Country Music Artists,Country,Record
+null,null,The Dave Clark Five,Try Too Hard,Rock,Record
+null,null,The Dave Clark Five,You Got What It Takes,Rock,Record
+Ricky,Nelson,null,Million Sellers,Pop,Record
+Gary,Puckett,and The Union Gap,The New Gary Puckett And The Union Gap Album,Pop,Record
+Roger,Miller,null,Golden Hits,Country,Record
+null,null,Peaches & Herb,Golden Duets,R&B/Soul,Record
+B.J.,Thomas,null,Greatest Hits Volume Two,Pop,Record
+null,null,null,This Is Flying W Country,Country,Record
+Elvis,Presley,null,Elvis The Other Sides Worldwide Gold Award Hits Vol. 2,Combination,Record
+Elvis,Presley,null,3 Volume Elvis' Golden Records,Combination,Record
+Elvis,Presley,null,Almost In Love,Combination,Record
+Elvis,Presley,null,C'mon Everybody ELVIS,Combination,Record
+Elvis,Presley,null,Elvis I Got Lucky,Combination,Record
+Elvis,Presley,null,"RCA Victor Presents Elvis in The Original Soundtrack Album From The Paramount Picture Paradise, Hawaiian Style",Combination,Record
+Elvis,Presley,null,Elvis-Back In Memphis,Combination,Record
+Elvis,Presley,null,From Elvis In Memphis,Combination,Record
+Elvis,Presley,null,Elvis Sings Christmas Songs Elvis' Christmas Album,Christmas,Record
+null,null,"The ""Sleepwalk GUITARS of Dan &  Dale",Dream Lovers,Country,Record
+Elvis,Presley,null,Frankie & Johnny,Combination,Record
+Elvis,Presley,null,RCA Victor Presents Elvis in The Original Soundtrack Album From Metro-Goldwyn-Mayer Picture Harum Scarum,Pop,Record
+Elvis,Presley,null,RCA Victor Presents Elvis In The Original Soundtrack Album From Metro-Goldwyn-Mayer Picture SPINOUT,Rock,Record
+Elvis,Presley,null,That's The Way It Is,Combination,Record
+Elvis,Presley,null,Let's Be Friends,Combination,Record
+Elvis,Presley,null,Love Letters From Elvis,Combination,Record
+null,null,Raspberries,Raspberries,Rock,Record
+null,null,The Nashville Country Jamboree Today's Country Hits,The Nashville Country Jamboree Today's Country Hits,Country,Record
+null,null,null,The Guitars Unlimited Play The Roger Miller Hit Songs,Country,Record
+null,null,null,Teen-Time Million Seller Hits By The Original Artists,Combination,Record
+null,null,null,All The Hits With All The Stars,Combination,Record
+null,null,The Lifeguards,C'mon And Swim,Rock,Record
+null,null,null,Dance-A-Go-Go With All The Stars Vol. 2,Rock,Record
+null,null,null,Shindig!,Musical,Record
+null,null,The Monkees,More Of The Monkees,Pop,Record
+null,null,The Supremes,The Supremes at The Copa,Combination,Record
+null,null,null,The Original Golden Greats,Pop,Record
+null,null,The Beatles,Yesterday And Today,Rock,Record
+null,null,null,DETROLA Presents The Original Artists Of Rock & Roll,Rock,Record
+null,null,The Beatles,Hey Jude,Rock,Record
+null,null,The Beatles,Rubber Soul,Rock,Record
+null,null,null,Songs From Mary Poppins,Children's,Record
+null,null,null,Roger's and Hammerstein's The Sound Of Music,Musical,Record
+null,null,null,Country Love,Country,Record
+John,Denver,null,Windsong,Country,Record
+Claude,King,null,Meet Claude King,Country,Record
+Roy,Orbison,null,In Dreams,Rock,Record
+null,null,The Monkees,The Monkees,Pop,Record
+null,null,null,26 Top Hits ,Rock,Record
+James,Brown,null,Papa's Got A Brand New Bag,Funk,Record
+null,null,null,Santa Claus Is Coming To Town,Christmas,Record
+null,null,null,Children's Christmas Favorites,Christmas,Record
+null,null,null,The Little Drummer Boy,Christmas,Record
+Don,Janse,and his 60-Voice Children's Chorus,The Christmas Drummer Boy,Christmas,Record
+null,null,Living Voices,The Little Drummer Boy,Christmas,Record
+null,null,null,Frosty The Snowman,Christmas,Record
+Michael,Jackson,null,Thriller,Combination,Record
+null,null,Alabama,My Home's In Alabama,Country,Record
+null,null,Oak Ridge Boys,Greatest Hits 2,Country,Record
+null,null,The Lovin' Spoonful,Hums Of The Lovin' Spoonful,Rock,Record
+Hank,Williams,null,A Vocal Tribute To Hank Williams Great Country & Western Hits,Country,Record
+Johnny,Williams,and the Playboys,The Era Of Hank Williams ,Country,Record
+null,null,null,Godspell,Musical,Record
+null,null,Simon & Garfunkel,The Graduate Original Sound Track Recording,Folk Pop,Record
+Jo Ann,Campbell,null,All The Hits,Pop,Record
+Elvis,Presley,null,"Elvis In Person At The International Hotel Las Vegas, Nevada",Combination,Record
+Elvis,Presley,null,On Stage February 1970,Combination,Record
+Elvis,Presley,null,Roustabout The Original Soundtrack Album,Combination,Record
+null,null,null,Current Hits Vol. No. 17,Rock,Record
+null,null,Simon & Garfunkel,Bookends,Folk Pop,Record
+null,null,The Righteous Brothers,Greatest Hits,Rock,Record
+Del,Shannon,null,The Best Of Del Shannon,Rock,Record
+null,null,The 4 Seasons,At The Hop Starring the Four Seasons Also Starring Charlie Francis-Barbara Brown-The Buggs,Rock,Record
+null,null,The Cars,The Cars,Rock,Record
+Paul,Revere,& The Raiders,Greatest Hits,Rock,Record
+Gary,Lewis,& The Playboys,Golden Greats,Rock,Record
+null,null,The Young Rascals,The Young Rascals,Rock,Record
+null,null,null,Walt Disney's Mary Poppins Original Cast Sound Track,Musical,Record
+Trini,Lopez,null,The Folk Album,Combination,Record
+Jim,Croce,null,The Faces I've Been,Rock,Record
+Petula,Clark,null,I Know A Place,Pop,Record
+Shaun,Cassidy,null,Born Late,Pop,Record
+null,null,null,24 Original Happening Hits,Rock,Record
+Paul,Brandt,null,That's The Truth,Country,CD
+Jim,Brickman,null,By Heart/Piano Solos,New Age,CD
+Garth,Brooks,null,The Ultimate Hits-3 Disk Set,Country,CD
+null,null,null,The Ultimate Collection,Combination,CD
+Etta,James,null,The Best Of Etta James 20th Century Masters The Millennium Collection,R&B/Soul,CD
+Buddy,Jewel,null,Buddy Jewel,Country,CD
+Elton,John,null,Elton John Live In Australia (With The Melbourne Symphony Orchestra),Combination,CD
+Sarah,Johns,null,Big Love In A Small Town,Country,CD
+Carolyn Dawn,Johnson,null,Dress Rehearsal,Country,CD
+Norah,Jones,null,Come Away With Me,Jazz,CD
+Janis,Joplin,null,Greatest Hits,Rock,CD
+null,null,Journey,Greatest Hits,Rock,CD
+Wynonna,Judd,null,Collection,Country,CD
+Michael,Bublé,null,Call Me Irresponsible,Pop,CD
+Sarah,Buxton,null,Sarah Buxton,Country,CD
+Colbie,Caillat,null,Coco,Folk Pop,CD
+Mariah,Carey,null,Music Box,Pop,CD
+Mary Chapin,Carpenter,null,Come On Come On,Country,CD
+Deana,Carter,null,The Deana Carter Collection,Country,CD
+null,null,Carter's Chord,Wild Together,Country,CD
+Cher,null,null,Believe,Euro Disco,CD
+Toby,Keith,null,How Do You Like Me Now?!,Country,CD
+Kenny,G,null,Breathless,Jazz,CD
+Alicia,Keys,null,Songs In A Minor,R&B/Soul,CD
+null,null,The Kinleys,All In The Family,Country,CD
+Jonny,Lang,null,Wander This World,Blues,CD
+Marit,Larsen,null,If A Song Could Get Me You,Pop,CD
+Kenny,Chesney,null,Everywhere We Go,Country,CD
+null,null,Chicago,Greatest Hits 1982-1989,Rock,CD
+null,null,The Chordettes,25 All-Time Greatest Recordings,Pop,CD
+Claudia,Church,null,Claudia Church,Country,CD
+Eric,Clapton,null,Unplugged,Combination,CD
+Terri,Clark,null,Just The Same,Country,CD
+Kelly,Clarkson,null,Before Your Love/A Moment Like This,Pop,CD
+Cyndi,Lauper,null,Twelve Deadly Cync…And Then Some,Pop,CD
+Avril,Lavigne,null,The Best Damn Thing,Rock,CD
+Joey,Lawrence,null,Joey Lawrence,Pop,CD
+null,null,Little Big Town,Little Big Town,Country,CD
+Lisa,Loeb,,Cake And Pie,Combination,CD
+null,null,Lonestar,Lonestar,Country,CD
+Jennifer,Lopez,null,jLo,Pop,CD
+null,null,The Lynns,The Lynns,Country,CD
+Kelly,Clarkson,null,Breakaway,Pop,CD
+Patsy,Cline,null,12 Greatest Hits,Country,CD
+Tammy,Cochran,null,Tammy Cochran,Country,CD
+Marc,Cohn,null,Marc Cohn,Rock,CD
+null,null,Colón,The Groove Machine,Combination,CD
+null,null,Color Me Badd,Now & Forever,Pop,CD
+David,Cook,null,David Cook,Rock,CD
+Sam,Cooke,null,Greatest Hits,R&B/Soul,CD
+Jim,Croce,null,Time In A Bottle-All Time Favorites By Jim Croce,Folk,CD
+Victor,Manuelle,null,Ironias,Salsa,CD
+null,null,Maroon 5,Songs About Jane,Rock,CD
+Ricky,Martin,null,Vuelve,Latin Pop,CD
+Bob,Marley,& The Wailers,Legend,Reggae,CD
+Amanda,Marshall,null,Amanda Marshall,R&B/Soul,CD
+null,null,Marshall Dillon,Enjoy The Ride,Country,CD
+null,null,The Marvelettes,The Best Of The Marvelettes-20th Century Masters The Millennium Collection,R&B/Soul,CD
+Richard,Marx,null,Richard Marx,Rock,CD
+Mila,Mason,null,That's Enough Of That,Country,CD
+Billy Ray,Cyrus,null,Some Gave All,Country,CD
+null,null,Dan + Shay,Where It All Began,Country,CD
+Linda,Davis,null,I'm Yours,Country,CD
+Jennifer,Day,null,The Fun Of Your Love,Country,CD
+Taylor,Dayne,null,Greatest Hits,Pop,CD
+null,null,Destiny's Child,Destiny Fulfilled,R&B/Soul,CD
+Neil,Diamond,null,His 12 Greatest Hits,Soft Rock,CD
+null,null,Diamond Rio,Greatest Hits,Country,CD
+Celine,Dion,null,Falling Into You,Pop,CD
+null,null,Dixie Chicks,Home,Country,CD
+null,null,Matchbox 20,Yourself Or Someone Like You,Alternative Rock,CD
+John,Mayer,null,Heavier Things,Combination,CD
+Martina,McBride,null,Emotion,Country,CD
+Lila,McCann,null,Complete,Country,CD
+Neil,McCoy,null,Greatest Hits,Country,CD
+Mindy,McCready,null,Mindy McCready,Country,CD
+null,null,Dream,It Was All A Dream,Pop,CD
+nun,null,Duffy,Rockferry,Combination,CD
+null,null,Eden's Crush,Popstars,Combination,CD
+null,null,Emerson Drive,Emerson Drive,Country,CD
+null,null,En Vogue,Remix To Sing,R&B/Soul,CD
+Melissa,Etheridge,null,Yes I Am,Heartland Rock,CD
+Shelley,Fabares,null,Shelley!-The Things We Did Last Summer,Pop,CD
+Fergie,null,null,The Dutchess,Hip Hop,CD
+Ella,Fitzgerald,null,Ken Burns Jazz,Jazz,CD
+null,null,Five For Fighting,The Battle Of Everything,Alternative Rock,CD
+null,null,The Foundations,Build Me Up Buttercup,Rock,CD
+Reba,McEntire,null,Starting Over,Country,CD
+Brian,McKnight,null,Back At One,R&B/Soul,CD
+Meatloaf,null,null,Bat Out Of Hell II: Back Into Hell,Rock,CD
+Melanie,null,null,The Encore Collection,Folk,CD
+John Cougar,Mellencamp,null,An American Fool,Heartland Rock,CD
+null,null,Memphis All-Stars,Blues Train,Blues,CD
+George,Michael,null,Faith,Pop,CD
+null,null,M2M,The Big Room,Pop,CD
+Shawn,Mullins,null,Soul's Core,Alternative Rock,CD
+Judy,Garland,null,Over The Rainbow,Standards,CD
+Marvin,Gaye,null,Greatest Hits,R&B/Soul,CD
+Crystal,Gayle,null,The Best Of Crystal Gayle,Country,CD
+Vince,Gill,null,High Lonesome Sound,Country,CD
+Lesley,Gore,null,The Best Of Lesley Gore,Pop,CD
+Amy,Grant,null,House Of Love,Soft Rock,CD
+Tamyra,Gray,null,The Dreamer,R&B/Soul,CD
+Hunter,Hayes,null,Hunter Hayes,Country,CD
+Wade,Hayes,null,On A Good Night,Country,CD
+null,null,Kentucky Head Hunters,Stompin' Grounds,Country,CD
+null,null,Na Leo Pilimehana,Feel The Spirit,Hawaiian,CD
+Heidi,Newfield,null,What Am I Waiting For,Country,CD
+null,null,98°,98° And Rising,Pop,CD
+Jamie,O'Neal,null,Brave,Country,CD
+null,null,OneRepublic,Dreaming Out Loud,Pop,CD
+null,null,O-Town,O-Town,Pop,CD
+Dolly,Parton,null,Halos & Horns,Country,CD
+Faith,Hill,null,Breathe,Country,CD
+null,null,Heart,Greatest Hits 1985-1995,Rock,CD
+Eric,Heatherly,null,Swimming In Champagne,Country,CD
+Jennifer Love,Hewitt,null,Jennifer Love Hewitt,Pop,CD
+Taylor,Hicks,null,Taylor Hicks,Combination,CD
+Buddy,Holly,null,Greatest Hits,Rockabilly,CD
+null,null,Hometown News,Wheels,Country,CD
+Julianne,Hough,null,Julianne Hough,Country,CD
+Whitney,Houston,null,The Greatest Hits,Combination,CD
+Rebecca Lynn,Howard,null,Rebecca Lynn Howard,Country,CD
+Enrique,Iglesias,null,Bailamos,Latin,CD
+Alan,Jackson,null,Who I Am,Country,CD
+Janet,Jackson,null,All For You,Combination,CD
+Michael,Jackson,null,Invincible,Combination,CD
+Wanda,Jackson,null,Queen Of Rockabilly,Rockabilly,CD
+null,null,Peaches & Herb,At Their Best,Combination,CD
+Elvis,Presley,null,Best Of Artist Of The Century,Combination,CD
+Prince,null,null,1999,Combination,CD
+Rachel,Proctor,null,Where I Belong,Country,CD
+null,null,The Pussy Cat Dolls,PCD,R&B/Soul,CD
+Corinne Bailey,Rae,null,Corinne Bailey Rae,Neo Soul,CD
+Bonnie,Raitt,null,Luck Of The Draw,Blues Rock,CD
+null,null,The Ranch,The Ranch,Country,CD
+null,null,Rascal Flatts,Rascal Flatts,Country,CD
+Paula,Abdul,null,Forever Your Girl,Pop,CD
+Bryan,Adams,null,18 Til I Die,Rock,CD
+null,null,Aerosmith,Big Ones,Rock,CD
+Clay,Aiken,null,Measure Of A Man,Pop,CD
+null,null,Air Supply,Greatest Hits,Soft Rock,CD
+Rhett,Akins,null,What Livin's All About,Country,CD
+null,null,Alabama,For The Record 41 Number One Hits,Country,CD
+Chris,Andrews,null,Pretty Belinda,Pop,CD
+Jessica,Andrews,null,Who I Am,Country,CD
+Marc,Anthony,null,Contra La Corriente,Latin,CD
+Louis,Armstrong,null,16 Most Requested Songs,Jazz,CD
+Susan,Ashton,null,Closer,Country,CD
+Sherrie,Austin,null,Love In The Real World,Country,CD
+Babyface,null,null,The Day,R&B/Soul,CD
+null,null,BBMAK,Sooner Or Later,Pop Rock,CD
+null,null,The Beach Boys,Made In The U.S.A.,Surf,CD
+null,null,The Beatles,1,Rock,CD
+Stephanie,Bentley,null,Hopechest,Country,CD
+null,null,Bering Strait,Bering Strait,Country,CD
+Crystal,Bernard,null,The Girl Next Door,Country,CD
+null,null,B*Witched,Awake And Breathe,Pop,CD
+Beyoncé,null,null,B Day Deluxe Edition,R&B/Soul,CD
+James,Blunt,null,Back To Bedlam Expanded Edition,Soft Rock,CD
+Michael,Bolton,null,Greatest Hits 1985-1995,Soft Rock,CD
+null,null,Bon Jovi,New Jersey,Rock,CD
+null,null,Boyz II Men,Evolution,R&B/Soul,CD
+Mike,Walker,null,Memories Of Elvis,Combination,CD
+India,Arie,null,Acoustic Soul,Neo Soul,CD
+Mahalia,Jackson,null,"Mahalia Jackson ""Sings America's Favorite Hymns""",Christian,CD
+Donna,Reeves,null,Only The Heart,Jazz,CD
+Collin,Raye,null,The Best Of Collin Raye Direct Hits,Country,CD
+null,null,Reality,It Won't Be Long,Pop Rock,CD
+null,null,Reo Speedwagon,The Second Decade Of Rock And Roll 1981-1991,Soft Rock,CD
+Lionel,Ritchie,null,Truly-The Love Songs,R&B/Soul,CD
+Leann,Rimes,null,Sittin' On Top Of The World,Country,CD
+Julie,Roberts,null,Julie Roberts,Country,CD
+Marty,Robbins,null,The Very Best Of Marty Robbins,Country,CD
+Kenny,Rogers,null,Greatest Hits,Country,CD
+Linda,Ronstadt,null,Greatest Hits,Combination,CD
+Rivers,Rutherford,null,Just Another Coaster,Country,CD
+null,null,Savage Garden,Savage Garden,Pop,CD
+null,null,S Club 7,S Club 7,Pop,CD
+Jon,Secada,null,Jon Secada,Latin,CD
+Neil,Sedaka,null,All The Greatest Hits,Pop,CD
+Jason,Sellers,null,A Matter Of Time,Country,CD
+Shakira,null,null,Laundry Service,Latin,CD
+Victoria,Shaw,null,In Full View,Country,CD
+null,null,SheDaisy,Fortune Teller's Melody,Country,CD
+null,null,Shenandoah,Super Hits,Country,CD
+null,null,The Shirelles,16 Greatest Hits,Combination,CD
+null,null,Simon & Garfunkel,The Best Of Simon & Garfunkel,Folk,CD
+Jake,Simpson,null,Star Search Winner: Jake Simpson ,R&B/Soul,CD
+Jessica,Simpson,null,Sweet Kisses,Pop,CD
+Frank,Sinatra,null,Frank Sinatra's Greatest Hits,Jazz,CD
+null,null,Sons of the Desert,Change,Country,CD
+null,null,Soul Asylum,Grave Dancer's Union,Alternative Rock,CD
+null,null,South Sixty Five,South Sixty Five,Country,CD
+null,null,Steel Magnolia,Steel Magnolia,Country,CD
+null,null,The Steve Miller Band,Greatest Hits 1974-78,Psychedelic,CD
+Joss,Stone,null,Mind Body & Soul,R&B/Soul,CD
+George,Strait,null,Carrying Your Love With Me,Country,CD
+Ruben,Studdard,null,Soulful,R&B/Soul,CD
+null,null,Sugarland,Enjoy The Ride,Country,CD
+null,null,Sugar Ray,14:59,Punk Rock,CD
+Talor,Swift,null,Taylor Swift,Country,CD
+null,null,Technotronic,Pump Up The Jam,Techno,CD
+null,null,The Temptations,The Best Of The Temptations-Volume 1-The 60's 20th Century Masters The Millennium Collection,R&B/Soul,CD
+Rob,Thomas,null,…Something To Be,Combination,CD
+Cyndi,Thomson,null,My World,Country,CD
+null,null,3 Of Hearts,3 Of Hearts,Country,CD
+Pam,Tillis,null,Every Time,Country,CD
+null,null,Trick Pony,Trick Pony,Country,CD
+Tanya,Tucker,null,Complicated,Country,CD
+Shania,Twain,null,Come On Over,Combination,CD
+Tina,Turner,null,Simply The Best,R&B/Soul,CD
+Carrie,Underwood,null,Carnival Ride,Country,CD
+Keith,Urban,null,"Love, Pain, & The Whole Crazy Thing",Country,CD
+Phil,Vassar,null,Phil Vassar,Country,CD
+Mario,Vazquez,null,Mario Vazquez,Pop,CD
+null,null,Warren Brothers,Beautiful Day In The Cold Cruel World,Country,CD
+Jimmy,Wayne,null,Jimmy Wayne,Country,CD
+Mary,Wells,null,The Best Of Mary Wells 20th Century Masters The Millennium Collection,R&B/Soul,CD
+Barry,White,null,The Best Of Barry White 20th Century Masters The Millennium Collection,R&B/Soul,CD
+Bryan,White,null,Between Now And Forever,Country,CD
+null,null,Wilkinsons,Highway,Country,CD
+Vanessa,Williams,null,The Comfort Zone,R&B/Soul,CD
+Gretchen,Wilson,null,Here For The Party,Country,CD
+null,null,Wilson Phillips,California,Pop,CD
+Lee Ann,Womack,null,Some Things I Know,Country,CD
+Stevie,Wonder,null,The Definitive Collection,Combination,CD
+null,null,The Wreckers,Sand Still-Look Pretty,Country,CD
+Chely,Wright,null,Let Me In,Country,CD
+Elliott,Yamin,null,Elliott Yamin,R&B/Soul,CD
+Trisha,Yearwood,null,Inside Out,Country,CD
+Jason,Derulo,null,Everything Is 4,Combination,CD
+Pink,null,null,Try This,Pop Rock,CD
+Brad,Paisley,null,Moonshine In The Trunk,Country,CD
+Carly Rae,Jepsen,null,Kiss,Pop Rock,CD
+Tim,McGraw,null,Live Like You Were Dying,Country,CD
+Jason,Aldean,null,"Old Boots, New Dirt",Country,CD
+Dave,Matthews,null,Everyday,Alternative Rock,CD
+null,null,3 Doors Down,The Better Life-Deluxe Edition,Alternative Rock,CD
+John,Anderson,,Seminole Wind,Country,CD
+null,null,Arrested Development,"3 Years, 5 Months, & 2 Days In The Life Of…",Hip Hop,CD
+null,null,Atlantic Rhythm Section,The Best Of Atlantic Rhythm Section,Soft Rock,CD
+B.B.,King,null,The Best Of B.B. King 20th Century Masters The Millennium Collection,Blues,CD
+Ludwig Van,Beethoven,null,CD1: Famous Sonatas For Piano,Classical,CD
+null,null,BELL BIV DeVOE,WBBD-BootCity! The Remix Album,Hip Hop,CD
+Chuck,Berry,null,Ultimate Legends,Rock,CD
+null,null,Blind Melon,Blind Melon,Psychedelic,CD
+Michael,Bolton,null,"Time, Love, And Tenderness",Soft Rock,CD
+null,null,Chicago,Take Me Back To Chicago,Soft Rock,CD
+null,null,Counting Crows,August And Everything After,Alternative Rock,CD
+null,null,Duran Duran,Duran Duran,Synth Pop,CD
+Meredith,Edwards,null,Reach,Country,CD
+Gloria,Estefan,null,"Hold Me, Thrill Me, Kiss Me",Latin,CD
+Duke,Ellington,null,Compact Jazz,Jazz,CD
+null,null,Foreigner,The Very Best..And Beyond,Soft Rock,CD
+Samantha,Fox,null,Greatest Hits,Eurobeat,CD
+null,null,Fugees,(Refugee Camp) The Score,Hip Hop,CD
+Gabrielle,null,null,Dreams,R&B/Soul,CD
+null,null,Gin Blossoms,New Miserable Experience,Alternative Rock,CD
+null,null,Guess Who,The Greatest Of The Guess Who,Rock,CD
+Ty,Herndon,null,Living In A Moment,Country,CD
+James,Ingram,null,The Power Of Great Music,R&B/Soul,CD
+Jewel,null,null,Pieces Of You,Combination,CD
+Billy,Joel,null,River Of Dreams,Rock,CD
+"Luther ""Houserocker""",Johnson,null,American Roots: Blues,Blues,CD
+Toby,Keith,null,Greatest Hits Volume One,Country,CD
+Brad,Martin,null,Wings Of A Honky Tonk Angel,Country,CD
+Alanis,Morissette,null,Jagged Little Pill,Alternative Rock,CD
+Van,Morrison,null,Bang Masters,Combination,CD
+null,null,Mr. Big,Lean Into It,Heavy Metal,CD
+null,null,No Doubt,Tragic Kingdom,Combination,CD
+null,null,Painted Faces,4. Without You,Alternative Rock,CD
+null,null,P.M. DAWN,"P.M. Dawn Of The Heart, Of The Soul, And Of The Cross: The Utopian Experience",Hip Hop,CD
+Bruce,Springsteen,null,Greatest Hits,Heartland Rock,CD
+null,null,Six,Livewired,A Capella,CD
+Kevin,Sharp,null,Measure Of A Man,Country,CD
+null,null,The Rolling Stones,Hot Rocks 1964-1971,Rock,CD
+null,null,Restless Heart,Wheels,Country,CD
+null,null,Red Hot Chili Peppers,Blood Sugar Sex Magik,Combination,CD
+null,null,Redmon & Vale,Redmon & Vale,Country,CD
+Ruby,Wilson,null,A Song For You,Blues,CD
+John & Audrey,Wiggins,null,The Dream,Country,CD
+Andrew Lloyd,Webber,null,The Premiere Collection Encore,Combination,CD
+Tamra,Walker,null,Angel Eyes,Country,CD
+Clay,Walker,null,Hypnotize The Moon,Country,CD
+Stevie Ray,Vaughn,null,Greatest Hits,Blues,CD
+null,null,U2,The Joshua Tree,Rock,CD
+Bonnie ,Tyler,null,Faster Than The Speed Of Night,Heartland Rock,CD
+Randy,Travis,null,Greatest Hits Volume One,Country,CD
+Lisa,Stansfield,null,Affection,Rock,CD
+Mark,Wills,null,Wish You Were Here,Country,CD
+Michelle,Wright,null,Greatest Hits,Country,CD
+null,null,Regina Regina,Regina Regina,Country,CD
+Teresa,Brewer,null,The Songs Of Bessie Smith-The Cotton Collection,Jazz,CD
+null,null,The Mavericks,In Time,Country,CD
+null,null,SheDaisy,Brand New Year,Country,CD
+null,null,null,Now That's What I Call Christmas!,Christmas,CD
+Deana,Carter,null,Father Christmas,Country,CD
+Jimmy,Buffet,null,Christmas Island,Island,CD
+null,null,Jackson 5,The Best Of Jackson 5 20th Century Masters Christmas Collection,Christmas,CD
+null,null,null,Hula Party,Hawaiian,CD
+Christina,Aguilera,null,My Kind Of Christmas,Christmas,CD
+null,null,The Nylons,Christmas Harmonies,Christmas,CD
+Carnie & Wendy,Wilson,null,Hey Santa!,Christmas,CD
+null,null,null,Country Christmas 2001,Christmas,CD
+null,null,null,Happy Holidays-25 Christmas Songs ,Christmas,CD
+null,null,null,Classic Country Christmas 3 CD Set,Christmas,CD
+null,null,Destiny's Child,8 Days Of Christmas,Christmas,CD
+null,null,null,Holiday Sounds Of The Season 2001,Christmas,CD
+Kenny,Rogers,null,The Gift,Christmas,CD
+null,null,null,Wrangler Cowboy Christmas Volume VIII,Christmas,CD
+null,null,The Judds,Christmas Time With The Judds,Christmas,CD
+Clay,Aiken,null,Merry Christmas With Love,Christmas,CD
+null,null,null,Disney's CHRISTMAS COLLECTION,Christmas,CD
+null,null,Alabama,Christmas Volume II,Christmas,CD
+Jim,Brickman,null,JOY,Christmas,CD
+Jim,Brickman,null,The Gift,Christmas,CD
+null,null,null,Anastasia Music From The Motion Picture,Musical,CD
+null,null,null,Phantom Of The Opera The Original Cast Recording,Musical,CD
+null,null,null,The Best Of Ballroom Shall We Dance,Latin,CD
+Alice,Gomez,with Madalyn Blanchett & Marilyn Rife,Journeys Of The Flute,Instrumental,CD
+null,null,null,Where The Heart Is Music From The Motion Picture,Combination,CD
+null,null,null,20 Million Dollar Memories,Combination,CD
+null,null,null,Ray Original Motion Picture Soundtrack,Combination,CD
+null,null,null,Tribute To Notorious B.I.G. I'll Be Missing You/I'll Big Poppa/Cry On,Hip Hop,CD
+null,null,null,Titanic Music From The Motion Picture,Combination,CD
+null,null,null,Three Decades Of Country,Country,CD
+null,null,null,The Legendary Story Of Sun Records 2CD,Combination,CD
+null,null,null,Slack Key Guitar Volume 2,Combination,CD
+null,null,null,Selena The Original Motion Picture Soundtrack ,Latin,CD
+null,null,null,Sensuous Sax The Spark,Jazz,CD
+null,null,null,Music From The Motion Picture Save The Last Dance,Combination,CD
+null,null,Various Artists,Music From The TV Show Popstars Scene 23,Pop,CD
+null,null,null,RENT By Jonathon Larson Original Broadway Cast Recording /Two Disc Set,Musical,CD
+Putumayo,null,null,New Orleans,Combination,CD
+null,null,null,Kathy Kaehler Fitness Cardio Workout Music Mix,Dance,CD
+null,null,null,Biggest Loser 30 Minute Workout Mix,Pop,CD
+null,null,null,Ultimate Sports Jams Music,Rock,CD
+null,null,Various Artists,Pure Disco,Disco,CD
+null,null,null,"Music From The Television Show ""The Heights""",Pop Rock,CD
+null,null,null,NOW 20,Combination,CD
+null,null,null,NOW 23,Combination,CD
+null,null,null,NOW 32,Combination,CD
+null,null,null,GREASE! The New Broadway Cast Recording,Musical,CD
+null,null,null,Hairspray Soundtrack To The Motion Picture,Musical,CD
+null,null,null,Gotta Get It Hits Teen Pop,Pop,CD
+null,null,null,The Biggest Loser Workout Mix:  Top 40 Hits,Pop,CD
+null,null,null,South Beach Salsa,Salsa,CD
+null,null,null,Zumba Fitness Greatest Hits,Combination,CD
+null,null,null,Bluelight Fitness,Adult Contemporary,CD
+null,null,null,BELIEVE Original Soundtrack,Instrumental,CD
+null,null,null,Bailando Con Los Exitos 2000,Latin,CD
+null,null,null,A Walk To Remember Music From The Motion Picture,Combination,CD
+null,null,null,Steven Spielberg Presents ANIMANIACS,Children's,CD
+null,null,null,American Idol Greatest Moments,Combination,CD
+null,null,null,MEMPHIS Original Broadway Cast Recording,Musical,CD
+null,null,null,Come Together/America Salutes The Beatles,Country,CD
+null,null,null,Club Mix 2000,Dance,CD
+null,null,null,MAVERICK…The Soundtrack ,Country,CD
+null,null,null,Dance With Me Music From The Motion Picture,Combination,CD
+null,null,null,Mama Mia! The Movie Soundtrack Featuring The Songs Of ABBA,Musical,CD
+null,null,null,Music From The Motion Picture City of Angels,Rock,CD
+null,null,null,Ladies Of The 60's,Doo-Wop,CD
+null,null,null,Drews Famous Latin Pop Sensations,Latin,CD
+George,Winston,null,Winter Into Spring,Classical,CD
+null,null,null,Sun Splashin',Combination,CD
+null,null,null,A Collection From The Windham Hill Group Tranquility,Electronic,CD
+null,null,null,SHOW BOAT World Premiere Cast Recording,Broadway,CD
+Sting,null,null,Songs Of Love Victoria's Secret exclusive,Combination,CD
+null,null,null,Piano Dreams-Fur Elise,Classical,CD
+null,null,null,Piano Cascades,New Age,CD
+null,null,null,Pure Moods,New Age,CD
+null,null,null,Opera's Greatest Love Songs,Opera,CD
+null,null,null,NOISE Happy Tracks ,Pop,CD
+null,null,null,New Country-Volume 4-Number 10,Country,CD
+null,null,null,New Country-Volume 4-Number 7,Country,CD
+null,null,null,CD 1:Music For Meditation Vol. 1,Classical,CD
+null,null,null,Ladies Sing The Blues,Blues,CD
+null,null,null,KRAFT Country Tour '96,Country,CD
+null,null,null,KIDZ BOP 4,Pop,CD
+null,null,null,KIDZ BOP 1,Pop,CD
+null,null,null,Walt Disney Productions Presents Beauty And The Beast The Broadway Musical Original Broadway Cast Recording,Broadway,CD
+null,null,null,Get The Blues!,Blues,CD
+null,null,null,International Flavors FRANCE,International,CD
+null,null,null,The Best Of Country 3 CDs,Country,CD
+null,null,null,Kellogg's Presents Driving 'Em Crazy Volume 3,Country,CD
+null,null,null,Kellogg's Presents Driving 'Em Crazy Volume 2,Country,CD
+null,null,null,Kellogg's Presents Driving 'Em Crazy Volume 1,Country,CD
+null,null,98°,Clairol Herbal Essences,Pop,CD
+null,null,null,The Gift Of Romance A Windham Hill Sampler,Adult Contemporary,CD
+Elvis,Presley,null,"Today, Tomorrow, & Forever",Combination,CD
+Garth,Brooks,null,The Limited Series 1,Country,CD
+Garth,Brooks,null,The Limited Series 2,Country,CD
+Sherrie,Austin,null,Followin' A Feelin',Country,CD
+Susan,Ashton,null,Angels Of Mercy,Christian,CD
+Susan,Ashton,null,Susan Ashton,Country,CD
+Ella,Fitzgerald,null,Best Of Ella Fitzgerald & Louis Armstrong,Jazz,CD
+Louis,Armstrong,null,Best Of Ella Fitzgerald & Louis Armstrong,Jazz,CD
+Marc,Anthony,null,Marc Anthony,Latin,CD
+null,null,Bon Jovi,Have A Nice Day,Rock,CD
+null,null,Bon Jovi,Crush,Rock,CD
+null,null,BBMAK,Into Your Head,Rock,CD
+Sherrie,Austin,null,Words,Country,CD
+Sherrie,Austin,null,Streets Of Heaven,Country,CD
+Mahalia,Jackson,null,"The Music Of ""Mahalia Jackson""",Gospel,CD
+Collin,Raye,null,Tracks,Country,CD
+Kenny,Rogers,null,20 Great Years,Country,CD
+null,null,Savage Garden,Affirmation,Soft Rock,CD
+Shakira,null,null,Oral Fixation Vol. 2,Latin,CD
+null,null,SheDaisy,Knock On The Sky,Country,CD
+null,null,SheDaisy,Sweet Right Here,Country,CD
+null,null,SheDaisy,The Whole SHeBANG,Country,CD
+null,null,Shenandoah,Under The Kudzu,Country,CD
+null,null,The Shirelles,The Shirelles-16 Greatest Hits,Doo-Wop,CD
+null,null,Sons of the Desert,Whatever Comes First,Country,CD
+null,null,Sugarland,Twice The Speed Of Life,Country,CD
+Taylor,Swift,null,Fearless,Country,CD
+Taylor,Swift,null,1989,Country,CD
+Taylor,Swift,null,Speak Now,Country,CD
+Cyndi,Thomson,null,What I Really Meant To Say,Country,CD
+Eilleen SHANIA,Twain,null,The Complete Limelight Sessions,Country,CD
+Shania,Twain,null,Greatest Hits,Country,CD
+Shania,Twain,null,Up!,Country,CD
+Carrie,Underwood,null,Play On,Country,CD
+Carrie,Underwood,null,Some Hearts,Country,CD
+Keith,Urban,null,Be Here,Country,CD
+Keith,Urban,null,Defying Gravity,Country,CD
+Keith,Urban,null,Get Closer,Country,CD
+Keith,Urban,null,Golden Road,Country,CD
+null,null,The Warren Brothers,Guilty,Country,CD
+null,null,The Warren Brothers,King Of Nothing,Country,CD
+null,null,The Warren Brothers,Well-Deserved Obscurity,Country,CD
+Bryan,White,null,How Lucky I Am,Country,CD
+Bryan,White,null,The Right Place,Country,CD
+null,null,The Wilkinsons,Here And Now,Country,CD
+Lee Ann,Womack,null,Something Worth Leaving Behind,Country,CD
+Chely,Wright,null,The Metropolitan Hotel,Country,CD
+Chely,Wright,null,Never Love You Enough,Country,CD
+Chely,Wright,null,Single White Female,Country,CD
+Trisha,Yearwood,null,Real Live Woman,Country,CD
+Trisha,Yearwood,null,(Songbook) A Collection Of Hits,Country,CD
+Michael,Jackson,null,"History Past, Present And Future Book 1",Combination,CD
+Taylor,Swift,null,Red,Country,CD
+Cher,null,null,Greatest Hits,Rock,CD
+null,null,null,Biggest Loser Top 40 Vol. 4,Pop,CD
+Michael,Bublé,null,It's Time,Combination,CD
+Trisha,Yearwood,null,How Do I Live,Country,CD
+Leann,Rimes,null,How Do I Live,Country,CD
+Jim,Brickman,null,Ballads,New Age,CD
+null,null,Alabama,Dancin' On The Boulevard,Country,CD
+null,null,null,A Song For My Daughter,Adult Contemporary,CD
+"Nat ""King"" ",Cole,null,Compact Jazz,Jazz,CD
+Nicholas,Gunn,null,Passion In My Heart,International,CD
+Billy,Joel,null,Greatest Hits Volume I & Volume II,Rock,CD
+null,null,P.M. DAWN,The Bliss Album…?,Hip Hop,CD
+Andre,Rieu,null,Songs From My Heart-Aus Meinem Herzen,Classical,CD
+Jon,Secada,null,Grandes Exitos,Latin,CD
+Clay,Walker,null,Rumor Has It,Country,CD
+Jim,Brickman,null,Destiny,New Age,CD
+Jim,Brickman,null,Missing Moments,New Age,CD
+Jim,Brickman,null,No Words,New Age,CD
+Jim,Brickman,null,Picture This,New Age,CD
+Jim,Brickman,null,Simple Things,New Age,CD
+Garth,Brooks,null,Garth Brooks as Chris Gaines Lost In You,Combination,CD
+Garth,Brooks,null,Man Against The Machine,Country,CD
+Garth,Brooks,null,Scarecrow,Country,CD
+Garth,Brooks,null,Sevens,Country,CD
+Carolyn Dawn,Johnson,null,Room With A View,Country,CD
+Wynonna,Judd,null,The Other Side,Country,CD
+Wynonna,Judd,null,What The World Needs Now Is Love,Country,CD
+Deana,Carter,null,Did I Shave…? ,Country,CD
+Deana,Carter,null,Everything's Gonna Be Alright,Country,CD
+Deana,Carter,null,I'm Just A Girl,Country,CD
+Deana,Carter,null,The Chain,Country,CD
+Deana,Carter,null,The Story Of My Life,Country,CD
+null,null,The Kinleys,Just Between You And Me,Country,CD
+null,null,The Kinleys,II,Country,CD
+Jonny,Lang,null,Long Time Coming,Blues,CD
+Jonny,Lang,null,Turn Around,Blues,CD
+Cher,null,null,Heart Of Stone,Rock,CD
+null,null,Chicago,Chicago IX Chicago's Greatest Hits,Soft Rock,CD
+null,null,null,Chicago Music From The Miramax Motion Picture,Musical,CD
+Eric,Clapton,null,Slowhand,Blues,CD
+Lisa,Loeb,null,Firecracker,Rock,CD
+null,null,Lonestar,Crazy Nights,Country,CD
+null,null,Lonestar,Lonely Grill,Country,CD
+null,null,The Lynns,Shoes,Country,CD
+null,null,The Lynns,II,Country,CD
+Kelly,Clarkson,null,Thankful,Pop,CD
+Tammy,Cochran,null,Life Happened,Country,CD
+null,null,Color Me Badd,C.M.B.,R&B/Soul,CD
+Richard,Marx,null,Repeat Offender,Soft Rock,CD
+Richard,Marx,null,Rush Street,Soft Rock,CD
+Mila,Mason,null,The Strong One,Country,CD
+Kelly,Clarkson,null,Breakaway,Pop,CD
+Linda,Davis,null,Some Things Are Meant To Be,Country,CD
+Celine,Dion,null,Let's Talk About Love,Pop,CD
+John,Mayer,null,Room For Squares,Blues,CD
+Martina,McBride,null,Evolution,Country,CD
+Martina,McBride,null,Martina,Country,CD
+Martina,McBride,null,The Time Has Come/The Way That I Am/Wild Angels-Triple Feature,Country,CD
+Martina,McBride,null,Wake Up Laughing,Country,CD
+Martina,McBride,null,The Way That I Am,Country,CD
+null,null,Dixie Chicks,Long Time Gone,Country,CD
+null,null,En Vogue,The Very Best Of En Vogue,R&B/Soul,CD
+Mindy,McCready,null,If I Don't Stay The Night,Country,CD
+Meatloaf,null,null,Welcome To The Neighborhood,Rock,CD
+null,null,M2M,Shades Of Purple,Combination,CD
+null,null,Na Leo Pilimehana,Anthology II 1984-2001,Hawaiian,CD
+Jamie,O'Neal,null,Shiver,Country,CD
+Dolly,Parton,null,Heartbreaker,Country,CD
+Dolly,Parton,null,Heartsongs,Country,CD
+Dolly,Parton,null,Hungry Again,Country,CD
+Dolly,Parton,null,I Will Always Love You And Other Greatest Hits,Country,CD
+Faith,Hill,null,Cry,Country,CD
+Faith,Hill,null,Faith,Country,CD
+Faith,Hill,null,Fireflies,Country,CD
+Whitney,Houston,null,Just Whitney,Combination,CD
+Whitney,Houston,null,Whitney,Combination,CD
+Rebecca Lynn,Howard,null,Forgive,Country,CD
+Rebecca Lynn,Howard,null,No Rules,Country,CD
+Janet,Jackson,null,Design Of A Decade 1986/1996,Combination,CD
+Michael,Jackson,null,Thriller,Combination,CD
+Freda,Payne,null,The Best Of Freda Payne,R&B/Soul,CD
+null,null,Peaches & Herb,Two Of A Kind,R&B/Soul,CD
+Bonnie,Raitt,null,Nick Of Time,Combination,CD
+null,null,Rascal Flatts,Feel Like Today,Country,CD
+null,null,Rascal Flatts,"""Live""",Country,CD
+null,null,Rascal Flatts,Me And My Gang,Country,CD
+null,null,Rascal Flatts,Melt,Country,CD
+null,null,Rascal Flatts,Still Feels Good,Country,CD
+null,null,Rascal Flatts,Unstoppable,Country,CD
