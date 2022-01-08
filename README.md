@@ -10,7 +10,7 @@ This project was motivated by my need for organization of my own music library i
 **Features**
 * **User sign-up**: Users will be able to create a new account for themselves, allowing them to create their very own music collection by inputting their own music albums.
 * **User login**: After creating their account, users will be able to log in.
-* * **User logout**: After creating their account and logging in, users will be able to log out of their account.
+* **User logout**: After creating their account and logging in, users will be able to log out of their account.
 * **Add albums**: Users will be able to add an album.
 * **Delete albums**: Users will be able to delete an album.
 * **Search**: Users will be able to search for albums based on the artist’s first name, last name, album title, or genre.
