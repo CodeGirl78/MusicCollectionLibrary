@@ -14,7 +14,7 @@ namespace MusicCollectionLibrary.Data
     {
         public DbSet<Album> Albums { get; set; }
         public AlbumDbContext(DbContextOptions<AlbumDbContext> options)
-              : base(options)
+             : base(options)
         {
         }
 
