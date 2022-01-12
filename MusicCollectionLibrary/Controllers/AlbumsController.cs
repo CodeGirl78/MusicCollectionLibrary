@@ -46,7 +46,7 @@ namespace MusicCollectionLibrary.Controllers
                     GroupName = addAlbumViewModel.GroupName,
                     AlbumTitle = addAlbumViewModel.AlbumTitle,
                     Genre = addAlbumViewModel.Genre,
-                    Format = addAlbumViewModel.Format,
+                    AlbumFormat = addAlbumViewModel.AlbumFormat,
                 };
 
                 context.Albums.Add(newAlbum);
