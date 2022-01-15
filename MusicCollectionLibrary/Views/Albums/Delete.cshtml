@@ -1,11 +1,15 @@
-﻿<h1>Delete Albums</h1>
+﻿@using MusicCollectionLibrary.Models
+
+@model List<Album>
+
+<h1>Delete Albums</h1>
 
 <form method="post">
     @foreach (var album in ViewBag.albums)
     {
         <div class="checkbox">
             <label>
-                <input type="checkbox" name="albumIds" value="@album.Id" class="checkbox"> <span>@album.AlbumTitle by @album.FirstName @album.LastName @album.GroupName</span>
+                <input type="checkbox" name="albumIds" value="@album.Id" class="checkbox"> <span>@album.AlbumTitle by @album.FirstName @album.LastName @album.GroupName </span>
             </label>
         </div>
     }

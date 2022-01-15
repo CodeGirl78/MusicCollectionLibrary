@@ -18,6 +18,6 @@ namespace MusicCollectionLibrary.ViewModels
         [StringLength(150, MinimumLength = 3, ErrorMessage = "Album Title must be between 3 and 150 characters")]
         public string AlbumTitle { get; set; }
         public string Genre { get; set; }
-        public string AlbumFormat { get; set; }
+        public string Format { get; set; }
     }
 }

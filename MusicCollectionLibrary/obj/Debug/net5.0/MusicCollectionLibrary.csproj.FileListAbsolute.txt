@@ -163,3 +163,4 @@ C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\ob
 C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewImports.cshtml.g.cs
 C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
 C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\msurm\lift-off\project\MusicCollectionLibrary\MusicCollectionLibrary\obj\Debug\net5.0\Razor\Views\List\Index.cshtml.g.cs
