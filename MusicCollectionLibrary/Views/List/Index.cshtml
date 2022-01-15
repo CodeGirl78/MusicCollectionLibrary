@@ -1,0 +1,52 @@
+﻿@using MusicCollectionLibrary.Models
+
+@model List<Album>
+
+<h1>List Albums</h1>
+
+@if (Model.Count == 0)
+{
+    <p>No albums in your collection yet!</p>
+}
+
+else
+{
+    <table class="table">
+        <tr>
+            <th>
+                Id
+            </th>
+            <th>
+                Artist's First Name
+            </th>
+            <th>
+                Artist's Last Name
+            </th>
+            <th>
+                Group Name
+            </th>
+            <th>
+                Album Title
+            </th>
+            <th>
+                Genre
+            </th>
+            <th>
+                Format
+            </th>
+        </tr>
+
+        @foreach (var album in Model)
+        {
+            <tr>
+                <td>@album.Id</td>
+                <td>@album.FirstName</td>
+                <td>@album.LastName</td>
+                <td>@album.GroupName</td>
+                <td>@album.AlbumTitle</td>
+                <td>@album.Genre</td>
+                <td>@album.Format</td>
+            </tr>
+        }
+    </table>
+}
